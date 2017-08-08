@@ -168,7 +168,8 @@ Expansion into new regions will continue in accordance with the licensing plan a
 
 #### <a id="_yjsf9l54phkc"></a>4. Licensing plan
 
-Licensing includes expenses associated with government regulation processes and is tied to the EMI general license. In order to receive the license, no additional expenses will be required apart from those listed in the table with a few region-specific assumptions
+Licensing includes expenses associated with government regulation processes and is tied to the EMI general license. In order to receive the license, no additional expenses will be required apart from those listed in the table with a few region-specific assumptions.
+
 | __License API application investments__ |   |
 |-----------------------------------------|---|
 | Annual supervisory fee | $3 360,00 |
