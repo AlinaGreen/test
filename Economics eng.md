@@ -10,20 +10,20 @@ __Contents__
 
 2. [Business model description](#_fnothamz19w0)
 3. [Branch development table ](#_yjsf9l54phkc)
-4. [Динамика роста клиентов](#_ir8h51do1wbc)
-5. [Таблица роста количества клиентов](#_gmfxxcmalshv)
-6. [Структура расходов](#_6ymir71m8ecj)
-7. [Структура доходов](#_nkr3bqdp72ey)
-8. [Выручка](#_w9ev6vxd2iat)
+4. [Licensing plan  ](#_ir8h51do1wbc)
+5. [Customer growth ratio](#_gmfxxcmalshv)
+6. [Customer growth table](#_6ymir71m8ecj)
+7. [Expense structure](#_nkr3bqdp72ey)
+8. [Revenue structure](#_w9ev6vxd2iat)
 9. [Доходы](#_aqvxc1j6twoe)
 10. [Расходы накопительным итогом](#_l0adxokfbr5q)
 11. [Доходы накопительным итогом](#_srveyju44fxu)
 
-__Экономика NEURON__
+__NEURON Economics__
 
-#### <a id="_r8tbqbursiur"></a>1. Введение
+#### <a id="_r8tbqbursiur"></a>1. Introduction
 
-Ниже, представлена экономическая модель NEURON\.
+NEURON’s economic model is presented below\.
 
 Необходимо отметить, что предложенный бизнес план был рассчитан на основе фактических данных конкретного банка с региональной сетью из 14 единиц за период 10 месяцев\. Агрегированный бизнес план по годам представлен в Таблице 1
 
