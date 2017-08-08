@@ -137,29 +137,29 @@ Once the EMI license is received and branches of its own payment system are up a
 
 The project’s business model has used data on internal debit transactions (between the bank’s customer accounts), external payments (transactions with other banks’ customers), as well as external payments performed by customers without a bank account\. The calculation has used a selection of payments actually made within a period of 10 months\. For the sake of forecasting accuracy the data have been averaged\.
 
-__Структура доходов__
+__Expense structure__
 
-Доходы платформы складываются из следующих элементов:
+The platform revenues are made up of the following:
 
-| __Комиссии__ | __Фиксированные__ | __Процентные__ |
+| __Commission fees__ | __Fixed__ | __Percentage__ |
 |---|---|---|
-| Средний чек | $148,28 |  |
-| Комиссия разовая за выпуск карты | 10,00 | 1,48% |
-| Комиссия за переводы по счетам |  | 0,50% |
-| Комиссия на курсе |  | 3,50% |
-| Обслуживание карты/мес | 2,00 | 0,30% |
-| Комиссия за снятие наличных/вывод в фиат |  | 3,00% |
-| Комиссия на ICO |  | 5,00% |
-| Комиссия Р2Р биржи |  | 1,00% |
-| Комиссия Мерчант аккаунтов |  | 0,50% |
-| __Итого доходность платформы__ |  | __15,28%__ |
+| Average bill | $148,28 |  |
+| Non-recurrent card issue fee | 10,00 | 1,48% |
+| Account-to-account transfer fee |  | 0,50% |
+| Rate fee |  | 3,50% |
+| Card service fee/month | 2,00 | 0,30% |
+| Cash withdrawal/transfer to fiat fee |  | 3,00% |
+| ICO fee |  | 5,00% |
+| Р2Р exchange fee |  | 1,00% |
+| Merchant account fee |  | 0,50% |
+| __Platform total profitability__ |  | __15,28%__ |
 |   |   |   |
 
-Величина среднего чека была взята на основе анализа расходных операций по счетам клиентов с активными счетами, по которым за рассматриваемый период осуществлялась хотя бы одна операция\. Показатель среднего чека определялся путем деления суммы расходных операций всех клиентов за 10 месяцев на их количество\.
+An average bill has been calculated by analyzing debit transactions of customers with active accounts with at least one transaction registered in the period under review\. The average bill amount has been determined by dividing the sum total for all customers’ debit transactions over 10 months by their number\.
 
-Для проверки результатов был произведен расчет дохода, получаемого с одного клиента\. Расчет был сделан на основании данных об оборотах по доходным счетам баланса банка \(на доходных счетах учитывались суммы комиссий, полученных от операций клиентов\) за 10 месяцев\. Показатель дохода с одного клиента определялся путем деления суммы доходов от комиссий, полученных за указанный период, на количество клиентов \- владельцев счетов, фактически уплативших все установленные комиссии\. 
+Revenue per customer has been calculated on the basis of data on revenue account turnover in the bank’s balance sheet \(fees received from customer transactions were taken from revenue accounts\) for 10 months\. Revenue per customer has been determined by dividing the amount of fee revenue received in said period by the number of customers who owned accounts and actually paid all established fees\. 
 
-#### <a id="_fn3o1w8ri19d"></a>3. Таблица развития офисной сети
+#### <a id="_fn3o1w8ri19d"></a>3. Branch development table
 
 Развитие регионов присутствия будет идти в соответствии с планом лицензирования и обусловлено необходимостью наличия собственных корсчетов в этих странах для интеграции фиатных счетов с криптосчетами клиентов\.  Это даст возможность обслуживать счета внутри разрабатываемой платежной системы\. Результатом будет являться удешевление платежных операций\. Наличие офисов в регионах присутствия будет необходимым параметрам и отнесено нами на дальнейшие этапы развития с возможностью финансирования за счет прибыли компании\.
 
