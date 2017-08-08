@@ -462,33 +462,32 @@ After the launch of NEURON blockchain, compensation under the cash back program 
 
 ![](/1/images/8.png)
 
-###### <a id="_89ord4q1ab4n"></a>7.10.2. Сравнительная таблица карточных продуктов 
+###### <a id="_89ord4q1ab4n"></a>7.10.2. Card products comparison table 
 
 |  | __NEURON__ | __TenX__ | __Wirex & Xapo__ | __Monaco__ | __Token card__ |
 |--|------------|----------|------------------|------------|----------------|
-| __Поддержка криптовалют__ | BTC, ETH, ETC, LTC, DASH, XEM, EMC, DOC, WAVES, USTD | BTC, ETH, DASH | BTC | BTC, ETH | ETH |
-| __Безопасность хранения средств__ | Удобный кошелёк и смарт\-контракты | Удобный кошелёк и смарт\-контракты | Удобный кошелёк | Удобный кошелёк | Смарт\-контракты |
-| __Риск двойной траты__ | Безопасный | Безопасный | Безопасный | Безопасный | Рискованный |
-| __Эмитент__ | Visa, MC | Visa, MC | Visa | Visa | Visa |
-| __Статус__ | Запущен | Запущен | Запущен | Не работает | Не работает |
-| __Контроль безопасности средств пользователя__ | Полный контроль | Полный контроль | Нет контроля | Небольшой контроль | Частичный контроль |
-| __Открытая платформа__ | Да | Да | Нет | Нет | Нет |
-| __Кэшбэк__ | 0,1%\-0,5% | 0,1% | Нет | Нет | Нет |
-| __Плата за перевод__ | 0,50% | - | - | 1% |  1,50% |
-| __NFC__ |  Да | - | - | - | - |
-| __ByPass, Master pay__ | Да | - | - | - | - |
+| __Supported cryptocurrencies__ | BTC, ETH, ETC, LTC, DASH, XEM, EMC, DOC, WAVES, USTD | BTC, ETH, DASH | BTC | BTC, ETH | ETH |
+| __Security of stored funds__ | Convenient wallet and smart contracts | Convenient wallet and smart contracts | Convenient wallet and smart contracts | Convenient wallet | Smart contracts |
+| __Double-spending risk__ | Safe | Safe | Safe | Safe | Risky |
+| __Issuer__ | Visa, MC | Visa, MC | Visa | Visa | Visa |
+| __Status__ | Operational | Operational | Operational | Not operational | Not operational |
+| __User funds security control__ | Full control | Full control | No control | Little control | Partial control |
+| __Open platform__ | Yes | Yes |Yes | Yes | Yes |
+| __Cashback__ | 0,1%\-0,5% | 0,1% | Нет | Нет | Нет |
+| __Remittance fee__ | 0,50% | - | - | 1% |  1,50% |
+| __NFC__ |  Yes | - | - | - | - |
+| __ByPass, Master pay__ | Yes | - | - | - | - |
 
-##### <a id="_3mh1nqeeht1x"></a>8. Мобильные приложения
+##### <a id="_3mh1nqeeht1x"></a>8. Mobile applications
 
-Нативные мобильные приложения с удобным интерфейсом позволят без труда использовать все продукты NEURON в любом месте со своего смартфона\.
-
+Native mobile applications with a user-friendly interface provide easy access to all NEURON products from your smartphone wherever you are
 	
 
 ##### <a id="_n6t295z0i7p1"></a>9. KYC/AML
 
-Соответствие платформы Neuronplatform требованиям регуляторов по KYC/AML, помимо традиционной системы проверки сведений о Пользователях посредством получения сведений из различных общедоступных баз данных, будет обеспечено, в том числе,  за счёт интегрирования в Neuronplatform систем распознавания клиентов по их биометрическим данным — лицо, голос, видеозапись, за счёт существующих  и доказавших свою надежность сервисов Blocknotary\.
+In addition to the traditional system of user data verification via information from various publicly available databases, the compliance of Neuronplatform with the requirements of KYC/AML regulators will be ensured through integration with customer recognition systems using biometric data — face, voice, video, via existing and proven Blocknotary services
 
-##### <a id="_4jr66f5xfyx5"></a>10. __Этапы проекта__
+##### <a id="_4jr66f5xfyx5"></a>10. __Project timeline__
 
 
 | __янв. 2017__  __февр. 2017__  __мар. 2017__ |__апр. 2017__  __мая 2017__  __июн. 2017__ |__июл. 2017__  __авг. 2017__  __сент. 2017__ |
@@ -516,69 +515,69 @@ After the launch of NEURON blockchain, compensation under the cash back program 
 | регистрация ПС в Китае | подача документов на регистрацию платежной системы в Китае | Окончание разработки собственного блокчейна и каналов состояния NEURON Network начало тестирования |
 
 
-##### <a id="_omdvgd3yf0k0"></a>11. Структура ICO
+##### <a id="_omdvgd3yf0k0"></a>11. ICO Structure
 
-##### <a id="_n8xrkphv9tba"></a>11.1. [Техническая документация Токена NEURON](https://docs.google.com/document/d/1X64Fy0yQiXZ_b06WryxwIMPlpNrlt1uP90tHYrtMCTk/edit#)
+##### <a id="_n8xrkphv9tba"></a>11.1. [NEURON Token Technical documentation](https://docs.google.com/document/d/1X64Fy0yQiXZ_b06WryxwIMPlpNrlt1uP90tHYrtMCTk/edit#)
 
-###### <a id="_rfla9vm2vzkp"></a>11.2. [Токен NEURON \- токенный биржевой контракт](https://docs.google.com/document/d/1boBYhN2krxzkCKN6sQL_6jFpLA-RA5tK8locDKGgk3I/edit#)
+###### <a id="_rfla9vm2vzkp"></a>11.2. [NEURON - Exchange Token Contract](https://docs.google.com/document/d/1boBYhN2krxzkCKN6sQL_6jFpLA-RA5tK8locDKGgk3I/edit#)
 
-Смарт-контракт, имеющий встроенную мини-биржу, которая позволяет продавать и покупать токены, не привязываясь к другим, внешним биржам — отличительная и уникальная особенность NEURON. Достаточно просто выставить токен на продажу или оставить заявку на покупку, используя интерфейс контракта, а смарт-контракт дальше всё сделает сам.
+A smart contract with an internal P2P exchange platform where purchase and sale of tokens is made possible outside of external exchanges is a distinguishing and exclusive tool featured by NEURON. Put your token up for sale or create a purchase order using the contract’s interface and let the smart contract do the rest for you.
 
-###### <a id="_vxmdmwnorwom"></a>11.3. Общая характеристика Токенов 	NEURON
+###### <a id="_vxmdmwnorwom"></a>11.3. NEURON Tokens: general description
 
-| __Параметры финансирования__ |   |
+| __Financing parameters__ |   |
 |------------------------------|---|
-| Объем финансирования | ETH 202 129,57 |
+| Scope of financing | ETH 202 129,57 |
 
-| __Параметры Токена__ |   |
+| __Token parameters__ |   |
 |------------------------------|---|
-| Название Токена | Neuron |
-| Сокращенное название | NRN |
-| Количество токенов | NRN 8 874 150,79 |
-| Стоимость токена в ETH | ETH 0,03 |
+| Token name | Neuron |
+| Abbreviated name | NRN |
+| Number of tokens | NRN 8 874 150,79 |
+| Token price on ETH | ETH 0,03 |
 
 | **NEURON'S Parameters** | |
 |-------------|-----------|
 | Name | Neuron |
 | Ticker | NRN |
-| Доля инвесторов прибыли в доходах NeuronPlatform | 20% |
-| Порядок распределения дохода\(Inc\) | <a href="https://www.codecogs.com/eqnedit.php?latex=Inc&space;=&space;NEURONprofit\times&space;20&space;\%&space;\times&space;(\frac{\mathrm{NRNinvestor}&space;}{\mathrm{NRNall}})" target="_blank"><img src="https://latex.codecogs.com/png.latex?Inc&space;=&space;NEURONprofit\times&space;20&space;\%&space;\times&space;(\frac{\mathrm{NRNinvestor}&space;}{\mathrm{NRNall}})" title="Inc = NEURONprofit\times 20 \% \times (\frac{\mathrm{NRNinvestor} }{\mathrm{NRNall}})" /></a> |
-| Сроки выплат инвестиционного дохода | После сдачи годовой отчетности |
-| Порядок выплат инвестиционного дохода | На ETH кошелек на NEURON |
-|  Принцип выплат инвестиционного дохода | На кошельки инвесторов по смарт контракту, пропорционально доли владения NRN |
-| Стоимость токена в $ | $5,00 |
+| The share of investors’ profit in NeuronPlatform income | 20% |
+| Income distribution procedure (Inc.) | <a href="https://www.codecogs.com/eqnedit.php?latex=Inc&space;=&space;NEURONprofit\times&space;20&space;\%&space;\times&space;(\frac{\mathrm{NRNinvestor}&space;}{\mathrm{NRNall}})" target="_blank"><img src="https://latex.codecogs.com/png.latex?Inc&space;=&space;NEURONprofit\times&space;20&space;\%&space;\times&space;(\frac{\mathrm{NRNinvestor}&space;}{\mathrm{NRNall}})" title="Inc = NEURONprofit\times 20 \% \times (\frac{\mathrm{NRNinvestor} }{\mathrm{NRNall}})" /></a> |
+| Investment income payout term | After year-end reporting |
+| Investment income payout procedure | To NEURON’s ETH walletTo NEURON’s ETH wallet |
+| Investment income payout principle | To investors’ wallets under a smart contract proportionately to NRN share |
+| The cost of a token in $  в $ | $5,00 |
 
-| __Распределение Neuron__ | __%__ |
+| __Allocation of Neuron__ | __%__ |
 |---|---|
-| Создателям платформы, | 14,1% |
-| Эдвайзеры и консультанты | 2,5% |
-| Баунти компания, поиск и устранение багов, | 1,4% |
-| В свободную продажу через ICO\. | 82,0% |
+| Platform founders, | 14,1% |
+| Advisors and consultants | 2,5% |
+| Bounty, bug detection and elimination, | 1,4% |
+| Free sale through ICO\. | 82,0% |
 |   | 100,0% |
 |   |   |
-| Бонусные токены для ICO \(распределяются в виде скидки\) | 17,0% |
+| Bonus tokens for ICO (allocated as a discount) | 17,0% |
 
-__Бонусные токены  \- распределение скидки во время ICO__
+__Bonus tokens - ICO time-sensitive discounts__
 
 ![](/1/images/9.png)
 
-**Распределение Neuron %**
+**Allocation of Neuron %**
 
 ![](/1/images/10.png)
 
-#### <a id="_pdt7r7vb827"></a>11.4. Стимулирование команды
+#### <a id="_pdt7r7vb827"></a>11.4. Team stimulation
 
-Стимулирование — это практика управления интересом команды к доведению продукта до заявленных показателей\. Все основатели и команда будут иметь трехлетний стимулирующий цикл с трёхмесячным шагом\. Это означает, что мы будем получать свою долю токенов один раз в три месяца в размере 1/12 от количества токенов, предназначенных команде\. 
+Stimulation is the practice of motivating team members to achieve the product sales target. The founders and team members will operate a three-year stimulation cycle with a payout every three months. It means that we will receive our share of tokens once in three months equal to 1/12 of tokens payable to the team. 
 
  
 
-#### <a id="_dzztrox3ucjf"></a>11.5. Этапы финансирования
+#### <a id="_dzztrox3ucjf"></a>11.5. Funding rounds
 
-NEURON составил план собственного развития в зависимости от суммы денежных средств, собранных в период проведения ICO\. С учётом того, что площадка ICO, Р2Р\-биржа и модуль пластиковых карт являются уже действующими, NEURON  сможет запустить часть процессов для дальнейшего собственного развития в организации платежного сервиса на блокчейне, минимальная сумма сборов, при которой NEURON сможет обеспечить получение лицензии EMI, необходимой для организации собственной платежной системы, составляет 1,5 млн долларов США\. Дальнейшие этапы развития в соответствии с объемом финансирования приведены в таблице ниже\.
+NEURON has drafted its own development plan depending on the amounts to be collected during the ICO. Since the ICO platform, the P2P exchange and the plastic card module are already operational, NEURON will be able to run some of the processes internally with respect to the further development of a payment service on a blockchain with $1.5 million as the minimum amount qualifying the company for the EMI license to launch the payment system. All subsequent stages have been planned taking into account the amount of funding and are given in the table below.
 
-__Таблица 1__
+__Table 1__
 
-| __Этапы финансирования__ |   |
+| __Funding rounds__ |   |
 |---|---|
 | __Stages__ | __ICO Funding__ |
 | Licensing & accompanying fees | $1 500 000,00 |
@@ -589,23 +588,23 @@ __Таблица 1__
 | Russia office & licensing | $25 000 000,00 |
 | Europe office & licensing | $36 000 000,00 |
 
-График 1
+Diagram 1
 
 ![](/1/images/11.png)
 
-##### <a id="_hq3kcob0vix4"></a>12. Нормативные документы
+##### <a id="_hq3kcob0vix4"></a>12. Guidelines and regulations
 
-1. ISO/IEC 27000 family of standards — определяют требования для хранения, обработки и передачи персональной идентификационной информации\. Более подробно можно ознакомиться на[ ](https://www.iso.org/isoiec-27001-information-security.html)[сайте](https://www.iso.org/isoiec-27001-information-security.html) организации\.
-2. GDPR — основные требования к обработке данных \(General Data Processing Regulation, GDPR\) определяют основные принципы работы с персональной информацией\. Полный текст директивы находится на[ ](http://ec.europa.eu/justice/data-protection/reform/files/regulation_oj_en.pdf)[официальном сайте](http://ec.europa.eu/justice/data-protection/reform/files/regulation_oj_en.pdf), сокращённую версию можно изучить тут\. Последнее издание Европейской Комиссии можно найти[ ](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG)[тут](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG)\.
-3. eIDAS — набор стандартов для электронных ID и доверенных сервисов \(Trust Services\) для электронных транзакций Единого рынка ЕС\. Подробные спецификации опубликованы на[ ](https://ec.europa.eu/digital-single-market/en/trust-services-and-eid)[сайте](https://ec.europa.eu/digital-single-market/en/trust-services-and-eid) Еврокомиссии\.
-4. ISO 20022 — стандарт коммуникации между финансовыми организациями, исключающий любое недопонимание между ними посредством использования универсального делового словаря\. Более подробно об этом можно узнать на официальном[ ](https://www.swift.com/standards/about-iso-20022)[сайтe](https://www.swift.com/standards/about-iso-20022) SWIFT или сайте самого[ ](https://www.iso20022.org/)[ISO](https://www.iso20022.org/)\.
-5. PSD 1 и PSD 2 — регулирующие платёжные сервисы в Евросоюзе директивы, установленные Еврокомиссией\. Среди прочего, они повышают безопасность и защиту потребителя\. Подробнее — на официальном[ ](https://ec.europa.eu/info/business-economy-euro/banking-and-finance/consumer-finance-and-payments/payment-services/payment-services_en)[сайтe Европейской Комиссии](https://ec.europa.eu/info/business-economy-euro/banking-and-finance/consumer-finance-and-payments/payment-services/payment-services_en)\.
-6. Требования SEPA — предназначены для определения правил и условий безналичных платежей в ЕС на основе требований PSD 1\. Подробнее — на официальном[ ](https://ec.europa.eu/info/business-economy-euro/banking-and-finance/consumer-finance-and-payments/payment-services/single-euro-payments-area-sepa_en)[сайтe](https://ec.europa.eu/info/business-economy-euro/banking-and-finance/consumer-finance-and-payments/payment-services/single-euro-payments-area-sepa_en)\.
-7. Законодательство AML/CFT — список требований антиотмывочного законодательства и мер по противодействию финансированию терроризма\. Более подробно об этих регуляциях можно прочитать[ ](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R0847)[здесь](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R0847) и[ ](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L0849)[здесь](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L0849), а прочая информация находится на[ ](https://www.eba.europa.eu/regulation-and-policy/anti-money-laundering-and-e-money)[сайтe](https://www.eba.europa.eu/regulation-and-policy/anti-money-laundering-and-e-money) Европейского банковского регулятора\. Нужно иметь в виду, что большинство из этих законов, требований и директив распространяются только на Европейский Союз\.
+1. ISO/IEC 27000 family of standards — sets the requirements for the storage, processing and transmission of personal identification data. More details can be found on the website of the organization.
+2. GDPR — оGeneral Data Processing Regulation (GDPR) sets the basic principles for processing personal information. Full text of the directive can be found on the official website, you can study the abridged version here. The latest edition of the European Commission can be found here.
+3. eIDAS is a set of standards for electronic ID and Trust Services for electronic transactions at the EU single market. Detailed specifications are published on the website of the European Commission.
+4. ISO 20022 is a standard for communication between financial institutions, excluding any misunderstanding between them through the use of harmonized business dictionary. More details can be found on the official website of SWIFT or the ISO website.
+5. PSD 1 and PSD 2 are the European Commission directives governing the payment services in the European Union. Among other things, they enhance the security and protection of the consumer. Find out more on the official website of the European Commission.
+6. ТSEPA requirements are intended to define the rules and conditions for non-cash payments in the EU based on PSD 1 requirements. Find out more on the official website.
+7. AML/CFT legislation is the list of requirements adopted by the AML/CFT legislation and measures to counter the financing of terrorism. More details about these policy can be read here and here, and other information is on the website of the European banking regulator. It should be noted that most of these laws, regulations and directives apply only to the European Union.
 
  
 
-##### <a id="_6q5j8e4eez0x"></a>13. Источники
+##### <a id="_6q5j8e4eez0x"></a>13. References
 
 - 
 	- [__http://forklog\.com/rynok\-kriptovalyut\-vyros\-v\-poltora\-raza\-s\-nachala\-2017\-goda/__](http://forklog.com/rynok-kriptovalyut-vyros-v-poltora-raza-s-nachala-2017-goda/)
@@ -616,8 +615,8 @@ __Таблица 1__
 	- [__http://www\.mspbank\.ru/userfiles/2015EU\.pdf__](http://www.mspbank.ru/userfiles/2015EU.pdf)
 	- [bits\.media](https://bits.media/)
 	- [__ЦБ РФ__](https://www.cbr.ru/)
-	- Данные Всемирного Банка
-	- Исследования и работы авторов 
+	- The World Bank data
+	- Research papers by various authors
 
 1. <a id="footnote-0"></a> https://cointelegraph\.com/news/ethereum\-dives\-to\-10\-cent\-prices\-as\-network\-panics [↑](#footnote-ref-0)
 
