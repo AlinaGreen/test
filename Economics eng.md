@@ -168,7 +168,7 @@ Expansion into new regions will continue in accordance with the licensing plan a
 
 #### <a id="_yjsf9l54phkc"></a>4. Licensing plan
 
-Licensing includes expenses associated with government regulation processes and is tied to the EMI general license. In order to receive the license, no additional expenses will be required apart from those listed in the table with a few region-specific assumptions.
+Licensing includes expenses associated with government regulation processes and is tied to the EMI general license. In order to receive the license, no additional expenses will be required apart from those listed in the table with a few region-specific assumptions\.
 
 | __License API application investments__ |   |
 |-----------------------------------------|---|
@@ -183,15 +183,15 @@ Licensing includes expenses associated with government regulation processes and 
 
 ![](images/2.png)
 
-#### <a id="_ir8h51do1wbc"></a>5. Динамика роста клиентов
+#### <a id="_ir8h51do1wbc"></a>5. Customer growth ratio
 
-Данные по изменению количества клиентов и темпа их прироста взяты из реального платежного бизнеса в фиатной валюте с периодом один год и усреднены по месяцам\. Принимая во внимание рост динамики пользователей криптовалют за последние пол года в мире, есть  основание полагать, что указанные показатели будут легко достигнуты\.
+Data on customer growth ratio have been taken from an existing fiat currency payment business covering the period of one year and have been averaged by months. Judging by global cryptocurrency user growth ratio in the last six months, we have reason to believe that said targets will be easily achieved\.
 
 ![Customer's growth ratio](images/4.png)
 
-#### <a id="_1x56e4i9lqk5"></a>6. Таблица роста количества клиентов
+#### <a id="_1x56e4i9lqk5"></a>6. Customer growth table
 
-В таблице приведены данные по предполагаемому приросту количества клиентов в разбивке по регионам\.
+The table contains data on the expected growth in the number of customers broken down by region\.
 
 ![](images/4.png)
 
