@@ -1,15 +1,15 @@
-__Экономика NEURON__
+__NEURON Economics__
 
-__Оглавление__
+__Contents__
 
-1. [Введение](#_r8tbqbursiur)
+1. [Introduction](#_r8tbqbursiur)
 	
-	1.1. [Ключевые допущения:](#_k8yr2wfdg9b)
+	1.1. [Key assumptions:](#_k8yr2wfdg9b)
 	
-	1.2. [Ключевые точки бизнес плана:](#_e1drhc9ly629)
+	1.2. [Business plan milestones:](#_e1drhc9ly629)
 
-2. [Таблица развития офисной сети](#_fnothamz19w0)
-3. [График лицензирования](#_yjsf9l54phkc)
+2. [Business model description](#_fnothamz19w0)
+3. [Branch development table ](#_yjsf9l54phkc)
 4. [Динамика роста клиентов](#_ir8h51do1wbc)
 5. [Таблица роста количества клиентов](#_gmfxxcmalshv)
 6. [Структура расходов](#_6ymir71m8ecj)
