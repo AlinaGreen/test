@@ -458,7 +458,7 @@ Prior to the launch of NEURON blockchain, compensation under the cash back progr
 
 After the launch of NEURON blockchain, compensation under the cash back program will be paid in NRN currency by crediting the amount of remuneration to the wallet of NRN customer, thereby increasing its balance in NEURON currency
 
-###### <a id="_4dlt7fl1glhf"></a>__7.10.1. Card fees comparison table __ 
+###### <a id="_4dlt7fl1glhf"></a>7.10.1. Card fees comparison table 
 
 ![](/1/images/8.png)
 
