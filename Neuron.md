@@ -272,41 +272,41 @@ That is why NEURON team paid attention not only to the creation of the blockchai
 
 ###### <a id="_w88vz529iko4"></a>7.2. Decentralized processing — a revolution in the financial world\.
 
-Децентрализованный процессинг NEURON — технология, призванная совершить революцию в системе обработки транзакций\. Первая попытка всерьез составить конкуренцию признанным авторитетам финансового мира, которая стала возможной, благодаря особым функциям блокчейна NEURON\.
+Decentralized NEURON processing is a technology set to revolutionize the online transaction processing system. This is the first attempt to seriously challenge the recognized mainstays of the financial world and it has been made possible due to NEURON blockchain’s unique features.
 
-Данная технология позволяет реализовать одно из основных преимуществ блокчейна в мире движения активов — уйти от посредников и, самое главное, решить проблему пропускной способности транзакций в единицу времени и их стоимости\.  По данным на июнь 2017, в сети Bitcoin проходит 225,681 транзакций в день, средняя стоимость одной транзакции — $0,7; в сети Ethereum — 221,000 транзакций в день, средняя стоимость одной транзакции — $0,5; сеть VisaNet — процессинговая платежная сеть Visa, по данным за 2016 год, за одну секунду способна обрабатывать свыше 65 тысяч транзакций по карточкам Visa, а всего за 2016 год количество транзакций, обработанных сетью VisaNet, превысило 110 млрд\. Конечно же, с существующей скоростью и пропускной способностью сетей невозможно не только составить конкуренцию существующим платежным системам, но и даже бессмысленно думать об этом\. Разработка блокчейна NEURON позволит преодолеть эти препятствия\. 
+This technology allows one of the key advantages offered by blockchain to be implemented in fund flow: avoiding intermediaries and, most importantly, solving the problem of transactions’ low throughput per unit of time and their high cost. As of June 2017, Bitcoin network processed 225,681 transactions per day with the average cost of a single transaction being $0.7; the Ethereum network processed 221,000 transactions per day with the average cost of a single transaction being $0.5. While VisaNet processing payment network, as of 2016, was able to process more than 65 thousand Visa cards transactions per second, the total number of transactions processed by VisaNet network in 2016 exceeded 110 billion. Of course, with the current speed and throughput of networks, it is impossible not only to compete with the existing payment systems, but it is even pointless to think about it. The development of NEURON blockchain will help overcome these obstacles. 
 
-Ниже представлена схема работы децентрализованного процессинга в сравнении с обычным\.
+The chart below compares the decentralized processing with a conventional one\.
 
 ![](/1/images/1.png)
 
-При всей кажущейся простоте технологической схемы работы централизованного процессингового центра, у него есть ряд существенных недостатков\.
-
-1. **Немасштабируемость** — количество пользователей и объём обрабатываемых транзакций ограничен технологической мощностью ЕБД и ЦОТ, т.е. технологические мощности имеют строго определённый предел.
-2. **Ограниченная скорость с ростом масштаба** — каждый последующий подключаемый пользователь снижает удельные технологические мощности ЕБД и СОТ, и, как следствие, снижается скорость обработки транзакций, что требует от владельца ПЦ дополнительных расходов на дорогостоящее оборудование.
-3. **Дороговизна** — чтобы избежать критического снижения технологической мощности ПЦ и работы всей платежной системы, необходимо организовывать несколько дорогостоящих ПЦ.
-4. **Централизованность, ведущая к хаосу** — при техническом сбое в работе ЦБД или СОТ все пользователи теряют возможность осуществлять операции.
+Despite the process flow in the centralized processing center being seemingly simple, there are a number of significant disadvantages to it
+		
+1. **Non-scalability** — The number of users and the amount of transactions processed are limited by the technical capacity of the single database and Transaction Processing Server, i.e. hardware capacity has a strictly defined limit.
+2. **The speed is limited by scale growth** — every new user joining the network reduces the specific hardware capacity of the single database and transaction processing server, and, consequently, reduces transaction processing speed, which requires the PC owner to incur additional costs on expensive equipment..
+3. **High cost** — in order to avoid critical reduction in PC hardware capacity and operation of the whole payment system, it is necessary to arrange several expensive PCs.
+4. **Centralization leading to chaos** — in case of a technical failure in CDB or TPS operation, all users lose the ability to perform their operations.
 
 ![](/1/images/2.png)
 
-При всей кажущейся сложности технологической схемы работы децентрализованного процессингового центра у него есть ряд существенных преимуществ\.
+Despite the process flow in the decentralized processing center being seemingly complex, there are a number of significant advantages to it
 
-1. __Масштабируемость__ — количество пользователей и объём обрабатываемых транзакций не ограничен технической возможностью «железа»\.
-2. __Скорость, вне зависимости от масштаба__ — каждый последующий подключаемый пользователь увеличивает технологическую мощность всей сети, и, следовательно, скорость обработки транзакций\.
-3. __Дешевизна__ — для подключения к процессинговому центру нет необходимости в приобретении дорогостоящего оборудования, достаточно скачать клиент блокчейна NEURON\.
-4. __Децентрализованность__, __ведущая к стабильности__ — при техническом сбое в работе одного пользователя, функция подтверждения транзакций автоматически перейдёт к первому свободному пользователю, что дает возможность всем пользователям осуществлять операции в обычном \(штатном\) режиме\.
+1. __Scalability__ — the number of users and the amount of transactions processed are not limited by hardware capacity\.
+2. __The speed is independent of the scale__ — every new user joining the network increases the hardware capacity of the entire network, and, consequently, the transaction processing speed\.
+3. __Low cost__ — in order to connect to the processing center there is no need to purchase expensive hardware, you have to just download the NEURON blockchain client\.
+4. __Decentralization__, __leading to stability__ — in case of a technical failure in one user’s operations, the transaction confirmation function will automatically pass on to another available user, thus enabling all the other users to operate in normal (regular) mode\.
 
-Со стороны клиента преимущества в использовании децентрализованного процессингового центра будут выражаться в высокой скорости совершения платежных операций\. По предварительной оценке, скорость обработки платежа будет превышать соответствующий показатель платежной системы Visa, потенциально составляющий на данный момент 65 тысяч операций в секунду\. 
+With regards to the customer, the advantages of using the decentralized processing center include high speed of payment transactions. According to preliminary estimates, the payment processing speed will exceed Visa’s current figure, potentially reaching 65 thousand operations per second. 
 
-Если вы находитесь на стороне бизнеса, представьте себе процессинговый центр, для которого не нужны ни дорогостоящее оборудование, ни отдельное помещение для размещения оборудования, которое ещё нуждается в приобретении и установке системы разграничения и контроля доступа, нет необходимости в приобретении дорогостоящего программного обеспечения, специализированных лицензий на программное обеспечение, требующих ежегодных взносов за их использование и/или продление лицензий\. NEURON всё это решил за вас и предоставляет вам просто возможность пользоваться этим и не терять время на создание дорогостоящей и громоздкой инфраструктуры\. 
+With regards to the business: just picture a data processing center where there is no expensive equipment, no server rooms or rack cabinets, no need for user access rights and control systems, no expensive software or specialized software licenses requiring annual fees for their use and/or license extension. NEURON has got it all figured out for you: just use it, save time and money on building expensive and cumbersome infrastructure.
 
-Безопасность — это ещё одна отличительная особенность децентрализованного процессингового центра\. Она будет обеспечиваться за счёт отсутствия централизованного общего хранилища баз данных, что делает невозможным кражу или получение доступа к этим данным третьими лицами\. 
+Security is yet another distinctive feature of the decentralized processing centre. It will be achieved due to there being no centralized shared storage databases, thus making it impossible for third parties to steal or get access to these data.
 
-Это только то немногое, что принципиально отличает децентрализованный процессинговый центр от традиционных процессинговых центров существующих платежных систем\.    
+These are just a few fundamental differences of the decentralized processing center from the traditional processing centers of the existing payment systems.
 
-Данный раздел отнесён NEURON ко второму этапу развития\. Работа над ним уже ведётся, но полномасштабная разработка и внедрение отнесены на второй этап разработки, после проведения ICO\.
+All this will be implemented by NEURON at the second stage of development. Work is already underway but full-scale development and implementation are slated for the second phase of development, after the ICO.
 
-###### <a id="_d9w9i18l45my"></a>7.3. ICO платформа
+###### <a id="_d9w9i18l45my"></a>7.3. ICO platform
 
 NEURON представляет платформу малому и среднему бизнесу для поиска возможностей расширения своего дела\.  Любой владелец бизнеса или идеи \(далее — Автор проекта\) может выставить свой проект на Платформу для сбора финансирования через выпуск собственных токенов \- цифрового отражения стоимости своего бизнеса и реализации их инвесторам\. Ввод информации о проекте достаточно прост и заключается в последовательном заполнении разделов, касающихся различных аспектов проекта \(наименование, презентация проекта, валюта сбора инвестиций, срок реализации проекта, предполагаемый доход, размер вознаграждения инвесторов от участия в проекте и т\.п\.\)\. Оракулами выступают владельцы токенов NEURON\.
 
