@@ -161,15 +161,14 @@ Revenue per customer has been calculated on the basis of data on revenue account
 
 #### <a id="_fn3o1w8ri19d"></a>3. Branch development table
 
-Expansion into new regions will continue in accordance with the licensing plan and will be driven by the need to open own correspondent accounts in the countries of presence thus enabling integration of fiat accounts with customer crypto accounts and service of those accounts within the payment system being developed. As a result, payment transactions will grow cheaper.
+Expansion into new regions will continue in accordance with the licensing plan and will be driven by the need to open own correspondent accounts in the countries of presence thus enabling integration of fiat accounts with customer crypto accounts and service of those accounts within the payment system being developed. As a result, payment transactions will grow cheaper
 \.
 
 ![](images/1.png)
 
-#### <a id="_yjsf9l54phkc"></a>4. График лицензирования
+#### <a id="_yjsf9l54phkc"></a>4. Licensing plan
 
-Лицензирование состоит из расходов, связанных с процессами государственного регулирования, и привязано к общей лицензии EMI\. Получение лицензии не требует дополнительных расходов кроме перечисленных в таблице с некоторыми допущениями в зависимости от региона\.
-
+Licensing includes expenses associated with government regulation processes and is tied to the EMI general license. In order to receive the license, no additional expenses will be required apart from those listed in the table with a few region-specific assumptions
 | __License API application investments__ |   |
 |-----------------------------------------|---|
 | Annual supervisory fee | $3 360,00 |
