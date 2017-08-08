@@ -129,28 +129,29 @@ Fulfilling our mission will require the following goals to be attained:
 
 ##### <a id="_g492puctlfn4"></a>5. *Blockchain environment analysis*
 
-###### <a id="_cp4erl2qsnqj"></a>5.1. *Существующие механизмы консенсуса*
+###### <a id="_cp4erl2qsnqj"></a>5.1. *Existing consensus mechanisms*
 
-Proof of Work — майнеры выполняют транзакции, подтверждая свою работу выполнением вычислительно сложных задач, и включают блок в цепь.
+ 
+Proof of Work — miners conduct transactions and prove their work by accomplishing complex computational tasks, and then include the block in the chain.
 
-Proof of Stake — пользователи, имеющие самый высокий баланс, возраст монет, либо какую-либо другую характеристику, выбранную как критерий гаранта, могут создавать блоки в цепи.
+Proof of Stake — users in possession of the highest account balances, coin age, or any other characteristic chosen as a guarantee criterion are able to create blocks in the chain
 
-Proof of Checkpoint (гибрид PoW и PoS) — майнеры по типу PoW создают блок-чекпоинт, предотвращая ветвление истории до этого блока, далее участники с наибольшим балансом средств на кошельке создают блоки с транзакциями.
+Proof of Checkpoint (PoW and PoS hybrid) — miners create a checkpoint block similar to PoW, preventing transaction history from being recorded up to this block, then richest members create transaction blocks.
 
-Proof of Activity (гибрид PoW и PoS) — майнеры по типу PoW создают заголовок блока, затем взвешенно случайным образом выбираются акционеры, которые подписывают блок, а последний из них включает в блок транзакции, подписывает его и ставит в цепочку.
+Proof of Activity (PoW and PoS hybrid) — miners create a block header similar to PoW, then the system chooses cryptocoin holders randomly, they sign the block and the last holder includes transactions in the block, signs it and puts it into the chain
 
-Delegated Proof of Stake — акционеры голосуют за делегатов, которые исполняют транзакции по очереди и получают комиссию.
+Delegated Proof of Stake — cryptocoin holders vote for the delegates who conduct transactions one by one and get commission.
 
-Proof of Burn — акционеры, уничтожившие наибольшее число своих монет, получают наибольший шанс записать следующий блок в цепочку.
+Proof of Burn — cryptocoin holders, who have ‘burned’ the largest number of their coins, get the best chance to record the next block in the chain.
 
-Proof of Importance — подвид Proof of Stake, где характеристикой является так называемый vested balance — асимптотически растущий до 100% баланс, расходуемый пропорционально размерам исходящих транзакций; поэтому исключён из рассмотрения как отдельный механизм в таком виде.
+Proof of Importance — a Proof of Stake subtype where the main characteristic is the so-called vested balance. It grows asymptotically up to 100% and is spent proportionately to the outbound transaction amounts and, therefore, it is excluded from algorithms under review as a separate mechanism per se.
 
-Proof of Capacity — майнеры могут использовать PoW для вычисления хэшей вместо их кэширования, а значит, метод наследует недостатки PoW, не добавляя преимуществ.
+Proof of Capacity — miners can use PoW for hash calculations instead of cashing them, thereby giving this method disadvantages inherited from PoW and adding no advantages.
 
-Ниже в таблице рассмотрены недостатки применяемых в блокчейнах методов консенсуса. Критерий безопасности рассмотрен подробнее далее, как уязвимость к различным атакам. Поскольку общая безопасность сети положительно коррелирует с её мощностью за счет того, что большинство участников заинтересовано в функционировании сети, то в целом они стремятся вести себя честно, поддерживая стабильность и безопасность сети и повышая стоимость успешной атаки на сеть. Однако мощность сети, задающая её безопасность, может задаваться как вычислительной мощностью, так и другими свойствами, присущими акционерам блокчейна, такими как vested balance, balance и т.п.
+The table below reviews disadvantages of blockchain consensus methods. The security criterion viewed as a vulnerability to various attacks is considered later on. Since the network’s general security level correlates positively to its power level inasmuch as all the participants are interested in the proper functioning of the network, they tend to act fair by maintaining high stability and security levels within the network and increasing the cost of a successful attack on it. However, the network’s performance which defines its security parameters can be pre-set by both its processing power and other properties inherent to blockchain holders, such as vested balance, balance, etc.
 
 
-| механизм \ недостаток | Ресурсоёмкость | Несходимость | Концентрация средств |
+| mechanism \ drawback | Resource intensity | Non-convergence | Asset concentration |
 |-----------------------|----------------|--------------|----------------------|
 | Proof of Work | +/-<a id="footnote-ref-2"></a>[\[3\]](#footnote-2) | - | +/-<a id="footnote-ref-3"></a>[\[4\]](#footnote-3) |
 | Proof of Stake | - | + | +\+ |
@@ -159,17 +160,17 @@ Proof of Capacity — майнеры могут использовать PoW д�
 | Delegated Proof of Stake | - | - | - |
 | Proof of Burn | - | - | - | 
 
-“**-**” - отсутствие явной уязвимости
+“**-**” - no explicit vulnerability
 
-“+\-” - частичная уязвимость
+“+\-” -  partial vulnerability
 
-“+” - наличие уязвимости
+“+” - vulnerability
 
-“+\+” - чрезмерная уязвимость
+“+\+” - excessive vulnerability
 
-###### <a id="_hipa4o7x0yqv"></a>5.2. Уязвимости существующих механизмов консенсуса 
+###### <a id="_hipa4o7x0yqv"></a>5.2. Vulnerabilities of the existing consensus mechanisms  
 
-| механизм \ атака | Двойная трата | DoS | 51% |
+| mechanism \ attack | Double spending | DoS | 51% |
 |------------------|---------------|-----|-----|
 | Proof of Work | - | +/-<a id="footnote-ref-6"></a>[\[7\]](#footnote-6) | + |
 | Proof of Stake | +\+<a id="footnote-ref-7"></a>[\[8\]](#footnote-7) | - | + |
@@ -178,23 +179,23 @@ Proof of Capacity — майнеры могут использовать PoW д�
 | Delegated Proof of Stake | +/-<a id="footnote-ref-10"></a>[\[11\]](#footnote-10) | - | - |
 | Proof of Burn | - | +/-<a id="footnote-ref-11"></a>[\[12\]](#footnote-11) | - |
 
-“-” - отсутствие явной уязвимости
+“-” - no explicit vulnerability
 
-“+/-” - частичная уязвимость
+“+/-” - partial vulnerability
 
-“+” - наличие уязвимости
+“+” - vulnerability
 
-“++” - чрезмерная уязвимость
+“++” - excessive vulnerability
 
 
 ## <a id="_vwe5kc5osz27"></a>
 
-В блокчейне NEURON выбор механизма консенсуса сделан в пользу DPoI. DPoS несёт функцию веса при голосовании за кандидатов, основанную на балансе акционеров, что может отрицательно сказаться на экономике блокчейна, поскольку участники с наибольшим балансом средств на кошельке, смогут прямо или косвенно диктовать свои условия всем участникам сети.  Чтобы избежать возможного влияния “богатых”  на всех участников сети NEURON, было принято решение в качестве такой функции веса использовать в том числе и объём исходящих транзакций со счета акционера за последний период фиксированной длины. Поскольку технически сложно определить этот период в общепринятых единицах, таких как день, неделя, месяц или год, такой период будет задан фиксированным количеством блоков в блокчейне.
+In the NEURON blockchain, the selection of consensus mechanism is made in favor of DPoI. DPoS performs the weight function while voting for candidates based on the balance of shareholders, which could adversely affect the blockchain economy, because the participants with highest  wallet balances can directly or indirectly dictate their terms to all participants in the network. In order to avoid the possible impact of ‘the rich’ on all other participants of NEURON network, it was decided that the weight function should be the amount of outbound transactions from the account of the shareholder for the last period of a fixed length. Since it is technically difficult to define this period in generally accepted units, such as day, week, month, or year, such period will be set by a fixed number of blocks in the blockchain.
 
-Такой показатель, основанный на частоте и объёме исходящих транзакций, будет оценивать эффективный вклад акционера в экономику сети и препятствовать накоплению средств на ограниченном числе счетов. Однако при этом возможна атака «накрутки» важности: при низкой цене за транзакцию злоумышленник может начать выполнять циклические транзакции, что искусственно увеличит его важность. Поэтому в NEURON проведен глубокий анализ блоков и создан сложный алгоритм для подсчёта важности, исключающий транзакции, являющиеся циклическим перемещением средств.
+Such an indicator based on the frequency and amount of outbound transactions, will evaluate a shareholder’s effective contribution to the network economy and prevent the accumulation of funds on a limited number of accounts. However, the importance markup attack is possible: in case of low transaction cost, the attacker can start performing circular transactions that artificially increase its importance. Therefore, NEURON performed an in-depth analysis of blocks and created a sophisticated algorithm for importance assessment, excluding cyclic value exchange transactions.
 
 
-##### <a id="_hdz4oqm5scxk"></a>5.3. Описание механизма консенсуса в NEURON
+##### <a id="_hdz4oqm5scxk"></a>5.3. Description of NEURON consensus mechanism
 
 DPoI в NEURON является наследником DPoS. Важно было найти решение, позволяющее минимизировать недостатки, унаследованные от PoW, сохранив при этом безопасность механизма консенсуса. Следовательно, майнинг будет производиться на популярных, не специализированных вычислительных устройствах, а значит, возможность майнинга будет  доступна всем, что сильно снизит потенциал централизации сети. К тому же механизм голосования учитывает не только количество монет на счете акционера, но и его активность.
 
