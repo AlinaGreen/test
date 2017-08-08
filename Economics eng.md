@@ -195,9 +195,9 @@ The table contains data on the expected growth in the number of customers broken
 
 ![](images/4.png)
 
-#### <a id="_6ymir71m8ecj"></a>7. Структура расходов
+#### <a id="_6ymir71m8ecj"></a>7. Expense structure
 
-В таблице указаны процентные соотношение видов расходов в общем объеме всех расходов\.
+The table shows percentage of expense types in the total expenses\.
 
 | __EXPENSES__ |   |
 |---|---|
@@ -215,40 +215,40 @@ The table contains data on the expected growth in the number of customers broken
 
 ![](images/5.png)
 
-#### <a id="_nkr3bqdp72ey"></a>8. Структура доходов
+#### <a id="_nkr3bqdp72ey"></a>8. Revenue structure
 
-Структура доходов платформы достаточно диверсифицирована и находится в рыночных диапазонах, что позволяет говорить о конкурентоспособности\. Наличие значительной доли фиксированных доходов свидетельствует об относительной независимости доходов платформы от оборотов по счетам клиентов\. Присутствие в структуре доходов комиссии за проведение ICO  снижает зависимость доходной части платформы от комиссий за платежные сервисы\. Ниже указаны виды доходов и их процентное соотношение к общему объему доходов платформы\.
+The platform’s revenue structure is sufficiently diversified and lies within the market range, which gives it a competitive edge\. The large fixed-revenue share testifies to a relative independence of the platform’s total revenue from a turnover on customer accounts\. The ICO commission fee being part of the revenue structure reduces dependence of the platform’s revenue on payment service fees.\. The table below shows types of revenue and their percentage ratios in the platform’s total revenue\.
 
-|  __Комиссии__ |   |
+|  __Fees__ |   |
 |---|---|
-| Комиссия фикс\., $  | 29,81%  |
-|  Комиссия Платформы за переводы | 3,72%  |
-| Комиссия на курсе  |  26,01% |
-|  Комиссия на пластике | 5,96%  |
-|  Комиссия РКО | 0,00%  |
-| Комиссия за снятие наличных/вывод в фиат  | 11,15%  |
-|  Комиссия на ICO | 15,19%  |
-| Комиссия Р2Р биржи  | 7,43%  |
-|  Комиссия Мерчант аккаунтов | 0,74%  |
+| Fixed fee\., $  | 29,81%  |
+|  Platform’s transfer fee | 3,72%  |
+| Rate fee  |  26,01% |
+|  Plastic fee | 5,96%  |
+|  Payment processing fee | 0,00%  |
+| Cash withdrawal/transfer to fiat fee  | 11,15%  |
+|  ICO fee | 15,19%  |
+| Р2Р exchange fee  | 7,43%  |
+|  Merchant account fee | 0,74%  |
 
 #### <a id="_kr73mp2l5uz0"></a>
 
 ![Доля доходов по видам в общем объеме доходов](images/6.png)
 
-#### <a id="_i2a3hoxuwcao"></a>9. Выручка
+#### <a id="_i2a3hoxuwcao"></a>9. Revenues
 
-Выручка указана помесячно и основана на цифрах, приведенных в п\.2
+The revenues are shown by months and are based on figures given in clause\.2
 
 ![Cash Flow](images/7.png)
 
-#### <a id="_r02fmuhh11qr"></a>10. Доходы
+#### <a id="_r02fmuhh11qr"></a>10. Revenues
 
 ![Revenue](images/8.png)
 
-#### <a id="_l0adxokfbr5q"></a>11. Расходы накопительным итогом
+#### <a id="_l0adxokfbr5q"></a>11. Expenses cumulatively
 
 ![](images/9.png)
 
-#### <a id="_srveyju44fxu"></a>12. Доходы накопительным итогом
+#### <a id="_srveyju44fxu"></a>12. Revenues cumulatively
 
 ![Revenue cumulative](images/10.png)
