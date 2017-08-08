@@ -25,7 +25,7 @@ __NEURON Economics__
 
 NEURON’s economic model is presented below\.
 
-It should be noted that calculations in the proposed business plan are based on 10-month factual data reported by a particular bank with a 14-branch regional network\. The business plan’s full text is available at
+It should be noted that calculations in the proposed business plan are based on 10-month factual data reported by a particular bank with a 14-branch regional network\. The business plan’s full text is available at:
 
 #### <a id="_k8yr2wfdg9b"></a>1.1. Key assumptions:
 
@@ -59,25 +59,25 @@ It should be noted that calculations in the proposed business plan are based on 
 
 
 
-__Таблица 9__;
+__Table 9__;
 
-1.2.5. Поступление первой выручки \- 4 кв 2017, __Таблица 7__
-1.2.6. Ежемесячная выручка растет с  
+1.2.5. First revenue is expected in July 2018, __Table 7__
+1.2.6. Monthly revenue grows from  
 
 | $0,00 | $361 646,27 |
 |---|---|
 
- в 2017 до 
+  in 2018 to 
 
 |   | $1 203 725 349,55 |
 |---|---|
 
 
- в 2022, __Таблица 7__;
+  in 2022, __Table 7__;
 
-1.2.7. Выход на самоокупаемость  \- 4\-й квартал 2019 \(через 2,5 года\), __Таблица 8__;
-1.2.8. Выход в прибыль \- 2\-й квартал  2022, __Таблица 10__;
-1.2.9. Выход в прибыль означает, что компания полностью погасила за счет прибыли все затраты в сумме 
+1.2.7. Breakeven point is expected in Q3 2019 (in 2.5 years), __Table 8__;
+1.2.8.  Profit is expected in Q4 2021, __Table 10__;
+1.2.9. Profit means that the company has covered all its expenses totaling 
 
 |   | __\-$23 576__ |
 |---|---|
@@ -124,7 +124,7 @@ __Таблица 9__;
 | __Доход к распределению на владельцев токенов__  |  __20%__ |  0 |  0 | 0  |  $1 350 867,14 | $2 879 485,59 |
 
 
-#### <a id="_922kqstcu473"></a>Описание Бизнес модели
+#### <a id="_922kqstcu473"></a>Business model description
 
 Бизнес модель NEURON основана на взимании комиссий за предоставление возможности клиентам платформы Neuronplatform приобретать, пополнять и объединять остатки средств на крипто и фиатных счетах и свободно оперировать объединенными средствами при осуществлении переводов и/или расчетов за товары и услуги\. Возможность покупки и пополнения криптосчетов будет доступна уже при запуске платформы, а с помощью будущей собственной платежной системы NEURON клиенты получат возможность пополнять свои криптокошельки путем перевода фиатных денег на счет платежной системы NEURON и одновременно, аналогичную возможность по переводу средств со своего криптокошелька на свой фиатный счет\. 
 
