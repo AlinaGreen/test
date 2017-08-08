@@ -308,11 +308,11 @@ All this will be implemented by NEURON at the second stage of development. Work 
 
 ###### <a id="_d9w9i18l45my"></a>7.3. ICO platform
 
-NEURON представляет платформу малому и среднему бизнесу для поиска возможностей расширения своего дела\.  Любой владелец бизнеса или идеи \(далее — Автор проекта\) может выставить свой проект на Платформу для сбора финансирования через выпуск собственных токенов \- цифрового отражения стоимости своего бизнеса и реализации их инвесторам\. Ввод информации о проекте достаточно прост и заключается в последовательном заполнении разделов, касающихся различных аспектов проекта \(наименование, презентация проекта, валюта сбора инвестиций, срок реализации проекта, предполагаемый доход, размер вознаграждения инвесторов от участия в проекте и т\.п\.\)\. Оракулами выступают владельцы токенов NEURON\.
+NEURON offers small and medium enterprises a platform for opportunities to expand their business. An owner of a business or an idea (hereinafter referred to as the Author of the project) can use the platform to raise funds for a project by issuing personal tokens, digital reflection of the value of its business, and to sell those tokens to investors. Entering information about the project is rather simple and requires the filling out of sections describing the project aspects (name, project presentation, investment currency, project life cycle, expected revenue, the amount of remuneration paid to investors for participating in the project, etc.). NEURON token owners will act as oracles.
 
-Если в результате голосования проект набирает__ 51%__ голосов собственников \(владельцев токенов NEURON\), то проект выходит на ICO\. Neuronplatform выпускает для него токены и они поступают в продажу\. Ключевым стимулом для проектов, которые будут использовать платформу Neuronplatform для проведения ICO, будет являться возможность получить поддержку в проведении ICO со стороны проекта NEURON\. В нашу команду входят разработчики, финансисты, маркетологи и юристы с глубокой экспертизой, как в своей профессиональной области, так и с опытом проведения других ICO\. За счёт продажи токенов владелец бизнеса привлекает средства в валюте проекта\. Если сбор инвестиций на проект осуществляется в криптовалюте, то при успешном завершении процесса сбора инвестиций, используя встроенную Р2Р\-биржу,  можно обменять криптовалюту на фиатную валюту\.
+If the project gets 51% of the owners’ votes (NEURON tokens owners), the project qualifies for an ICO. Neuronplatform issues tokens which then go on sale. The key incentive for the ventures seeking ICO on Neuronplatform is the possibility of getting NEURON support during the ICO. Our team includes developers, financiers, marketing consultants and lawyers with broad expertise in their professional field and vast experience organizing other ICOs. By selling tokens a business owner raises funds in the project currency. If investment is drawn in cryptocurrency, upon successful completion of fund-raising, one can exchange cryptocurrency for fiat currency, via the embedded P2P-Exchange.
 
-__Технологическая схема процесса ICO\-платформы приведена ниже\.__
+__The process flow chart for the \ICO-platform is given below\.__
 
  
 
@@ -320,38 +320,39 @@ __Технологическая схема процесса ICO\-платфор
 
 __	__
 
-###### <a id="_3132t291mz4l"></a>7.4. Р2Р\-Биржа криптовалют
+###### <a id="_3132t291mz4l"></a>7.4. Р2Р-Cryptocurrency Exchange
 
  
 
-В целях предоставления единой платформы для проведения всех операций, отвечающих нуждам клиентов, мы интегрировали биржу криптовалют в нашу платформу Neuronplatform\. Зная не понаслышке, насколько процесс покупки и пополнения существующих криптосчетов затратен и долог, мы сознательно создали Р2Р\-биржу\. Те, кто использует для работы или заработка криптовалюты, хорошо знакомы с процессом пополнения криптосчетов — комиссии за ввод/вывод фиатных средств на биржу или обменник, комиссии за транзакции, потери из\-за курсовых разниц, а также скорость исполнения операций значительно затрудняют проведение операций с использованием криптовалюты\.
+ 
+In order to provide a single platform for all transactions in line with customer needs, we have integrated the cryptocurrency exchange in our Neuronplatform. Knowing firsthand that purchasing and replenishing the existing crypto accounts is a rather expensive and long process, we deliberately created a P2P-Exchange. Those who use cryptocurrencies in their work or to earn are well familiar with the process of replenishing accounts - commission fees for deposit/withdrawal of fiat money at the exchange, transaction fees, losses due to exchange rate differences, as well as low performance speed - all this significantly hampers cryptocurrency transactions.
 
-Мы свели на платформе тех, кто продает криптовалюту с теми, кто её покупает, убрав тем самым ненужных посредников, но добавив гарантов\.
+At our platform, we have pooled together those who sell cryptocurrency and those who buy it, thus eliminating unnecessary intermediaries, but adding guarantors.
 
-- прямые платежи в фиатной валюте от покупателя к продавцу с карты на карту или электронного кошелька покупателя на карту или электронный кошелек продавца;
-- multisign\-кошелек;
-- гарантия исполнения сделки со стороны платформы за счёт наличия верифицирующей подписи;
-- быстрый обмен валюты;
-- экономия времени\.   
+- direct payments in fiat currency from a buyer to a seller, from one card to another, or from e-wallet of a buyer to the card or e-wallet of a seller;
+- multisign-wallet;
+- transaction performance guarantee by the platform via verification signature;
+- fast currency exchange;
+- saving time.     
 
  
 
-__Технологическая схема процесса приведена ниже__
+__The process flow chart is given below__
 
 <a id="_gjdgxs"></a>![](/1/images/4.png) 
 
-###### <a id="_cvy778h55qy1"></a>7.5. Платежная система
+###### <a id="_cvy778h55qy1"></a>7.5. Payment system
 
-Соответствие требованиям законодательства — необходимое условие существования стабильного, доходного бизнеса в современном мире\. Одна из основ Neuronplatform — это лицензия EMI\. Наличие лицензии позволит Neuronplatform осуществлять следующие операции\.
+Compliance with law is a necessary pre-condition for the existence of a stable, profitable business in modern world. One of the cornerstones on which Neuronplatform is built is EMI license. The license will allow Neuronplatform to perform the following operations.
 
-1. Эмиссия собственной электронной валюты, которая может быть использована за пределами Платформы \(сайта\) платежной системы\.
-2. Конвертация электронной валюты в любые другие валюты\.
-3. Услуги по переводу наличных средств на расчетный счёт, а также все операции, необходимые для управления расчетным счётом\.
-4. Услуги по снятию наличных денежных средств с расчётного счёта, а также все операции, необходимые для управления расчётным счётом;
-5. Осуществление платежных операций, включая перевод средств на расчётный счёт у провайдера платёжных услуг или любого другого провайдера платежных услуг:
-* * осуществление прямого дебетования, включая разовые дебетования,
-* * осуществление платежной операции с использованием платежной карты или аналогичного средства,
-* * осуществление кредитных трансфертов, включая постоянные поручения\.
+1. The issue of its own electronic currency, which can be used outside of the payment system Platform (site).
+2. Conversion of e-currency to any other currency\.
+3. Services for transferring cash to the account as well as operations necessary to manage the personal account\.
+4. Services for withdrawing cash from the account as well as operations necessary to manage the personal account;
+5. Payment transactions, including transfer of funds to the personal account from payment services provider or any other payment service provider:
+* * direct debiting, including one-time debiting,
+* * payment transaction via a payment card or similar device,
+* * credit transfers, including standing instructions\.
 
 6. Осуществление платежных операций, при которых средства покрываются кредитной линией, предоставленной пользователю платежных услуг:
 * * осуществления прямого дебетования, включая разовые дебетования,
