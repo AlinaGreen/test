@@ -4,79 +4,78 @@
 
  
 
-1. [Аннотация](#_eu9mmkownwdy)
-2. [Введение](#_e99cobccglvm)
-3. [Миссия](#_mtxa7cg30vxv)
-4. [Философия проекта NEURON](#_h39n00fn93pb)
-5. [Анализ блокчейн\-среды](#_g492puctlfn4)
+1. [Abstract](#_eu9mmkownwdy)
+2. [Introduction](#_e99cobccglvm)
+3. [Mission](#_mtxa7cg30vxv)
+4. [NEURON Project philosophy](#_h39n00fn93pb)
+5. [Blockchain environment analysis](#_g492puctlfn4)
 	
-	5.1. [Существующие механизмы консенсуса](#_cp4erl2qsnqj)
+	5.1. [Existing consensus mechanisms](#_cp4erl2qsnqj)
 	
-	5.2. [Уязвимости существующих механизмов консенсуса](#_hipa4o7x0yqv)
+	5.2. [Vulnerabilities of the existing consensus mechanisms](#_hipa4o7x0yqv)
 	
-	5.3. [Описание механизма консенсуса в NEURON](#_hdz4oqm5scxk)
+	5.3. [Description of NEURON consensus mechanism](#_hdz4oqm5scxk)
 
-6. [Финансовая платформа  NEURON](#_pbekvfn7g8vr)
+6. [NEURON Financial Platform](#_pbekvfn7g8vr)
 	
-	6.1. [Блокчейн NEURON](#_g8vd4tqch86z)
+	6.1. [NEURON blockchain](#_g8vd4tqch86z)
 	
-	6.2. [Децентрализованный процессинг](#_n1icww8e3js)
+	6.2. [Decentralized processing](#_n1icww8e3js)
 	
-	6.3. [ICO\-платформа](#_g7tm0gcpn8w)	
+	6.3. [ICO-platform](#_g7tm0gcpn8w)	
 	
-	6.4. [Р2Р\-биржа](#_imacpiwkwizh)	
+	6.4. [Р2Р-exchange](#_imacpiwkwizh)	
 	
-	6.5. [Платежные операции](#_rgtzoe5nh657)	
+	6.5. [Payment transactions](#_rgtzoe5nh657)	
 	
-	6.6. [Пластиковые карты NEURON](#_u9ugu4q0jun4)	
+	6.6. [NEURON plastic cards](#_u9ugu4q0jun4)	
 
-7. [Техническое описание платформы NEURON](#_5du5tpb522hn)	
+7. [Technical description of NEURON Platform](#_5du5tpb522hn)	
 	
-	7.1. [Описание кроссчейна](#_yuwfd9ajr7z5)	
+	7.1. [Crosschain description](#_yuwfd9ajr7z5)	
 	
-	7.2. [Децентрализованный процессинг — революция в финансовом мире\.](#_w88vz529iko4)	
+	7.2. [Decentralized processing — a revolution in the financial world\.](#_w88vz529iko4)	
 	
-	7.3. [ICO платформа](#_d9w9i18l45my)	
+	7.3. [ICO platform](#_d9w9i18l45my)	
 	
-	7.4. [Р2Р\-Биржа криптовалют](#_3132t291mz4l)	
+	7.4. [Р2Р-Cryptocurrency Exchange](#_3132t291mz4l)	
 	
-	7.5. [Платежная система](#_cvy778h55qy1)	
+	7.5. [Payment system](#_cvy778h55qy1)	
 	
-	7.6. [Neuronplatform\-кошелек](#_qxr5zd2pun85)	
+	7.6. [Neuronplatform-wallet](#_qxr5zd2pun85)	
 	
-	7.7. [Денежные переводы](#_juy34q6bxqo0)
+	7.7. [Money remittance](#_juy34q6bxqo0)
 	
-	7.8. [Агентская сеть](#_redf5udk86v9)
+	7.8. [Agent network](#_redf5udk86v9)
 	
-	7.9. [Платежи за товары на смарт контракте](#_gd4c1gcpelc)
+	7.9. [Payments for goods via a smart contract](#_gd4c1gcpelc)
 	
-	7.10. [Пластиковые карты](#_9k7029qxplga)
+	7.10. [Plastic cards](#_9k7029qxplga)
 	
-	7.11. [Сравнительная таблица тарифов по картам](#_4dlt7fl1glhf)
+	7.11. [Card fees comparison table](#_4dlt7fl1glhf)
 	
-	7.12. [Сравнительная таблица карточных продуктов](#_89ord4q1ab4n)
+	7.12. [Card products comparison table](#_89ord4q1ab4n)
 	
-8. [Мобильные приложения](#_3mh1nqeeht1x)
+8. [Mobile applications](#_3mh1nqeeht1x)
 9. [KYC/AML](#_n6t295z0i7p1)
-10. [Этапы проекта](#_4jr66f5xfyx5)
-11. [Структура ICO](#_omdvgd3yf0k0)
+10. [Project timeline](#_4jr66f5xfyx5)
+11. [ICO Structure](#_omdvgd3yf0k0)
 	
-	11.1. [Техническая документация Токена NEURON](#_n8xrkphv9tba)
+	11.1. [NEURON Token Technical documentation](#_n8xrkphv9tba)
 	
-	11.2. [Токен NEURON \- токенный биржевой контракт](#_uze2klehvifn)
+	11.2. [NEURON - Exchange Token Contract](#_uze2klehvifn)
 	
-	11.3. [Общая характеристика Токенов  NEURON](#_vxmdmwnorwom)
+	11.3. [NEURON Tokens: general description](#_vxmdmwnorwom)
 	
-12. [Стимулирование команды](#_pdt7r7vb827)
-13. [Этапы финансирования](#_dzztrox3ucjf)
-14. [Нормативные документы](#_hq3kcob0vix4)
-15. [Источники](#_6q5j8e4eez0x)
+12. [Team stimulation](#_pdt7r7vb827)
+13. [Funding rounds](#_dzztrox3ucjf)
+14. [Guidelines and regulations](#_hq3kcob0vix4)
+15. [References](#_6q5j8e4eez0x)
 
-##### <a id="_eu9mmkownwdy"></a>1. Аннотация
+##### <a id="_eu9mmkownwdy"></a>1. Abstract
 
-NEURON — децентрализованная система третьего поколения блокчейн, основанная на модернизированном гибридном механизме консенсуса DPOI + TaPOS и  использовании каналов состояний NEURON Network, позволяющим выступать в роли майнеров обычному смартфону. На блокчейне NEURON реализована финансовая учетная среда, позволяющая включать в сеть неограниченное число пользователей, осуществлять миллионы транзакций в единицу времени за минимальную оплату. Открытая блокчейн платформа позволяет создавать собственные токены для организации финансирования на блокчейне, встроенная децентрализованная биржа — переводить их стоимость в фиатную валюту. Токенный биржевой контракт со встроенной биржей внутри смарт контракта, позволяет реализовывать токены не привязываясь к внешним биржам. В блокчейн-среде реализованы банковские платежные инструменты, позволяющие стереть границу между крипто- и фиатными валютами. Ввод и вывод фиатной валюты обеспечивается через собственную платежную систему.
-
-##### <a id="_e99cobccglvm"></a>2. Введение
+NEURON is a decentralized third-generation blockchain system built around the updated DPOI + TaPOS hybrid consensus mechanism using NEURON Network state channels, which makes mining easy for a smartphone user. The NEURON blockchain implements a financial environment that allows including an unlimited number of users in the network conducting millions of transactions in a given time at a minimum cost. While the open-source blockchain platform allows individual tokens to be created for financing projects on a blockchain, a network-embedded decentralized P2P exchange easily converts them into a fiat currency. The exchange token contract features an own, smart contract-based exchange which enables trading tokens directly, outside of exchanges. The blockchain environment makes an array of bank payment instruments available to its users, which virtually erases boundaries between crypto- and fiat currencies. Depositing and withdrawing fiat money has been made possible through the platform’s own payment system.
+##### <a id="_e99cobccglvm"></a>2. Introduction
 
 Платформа NEURON состоит из двух разделов: первый, базовый, на котором основаны все функции последующих, блокчейн NEURON с каналами состояний NEURON Network, объединяющий в себе последние разработки в области blockchain\-технологий и второй – финансовый маркетплейс, представляющий собой совокупность финансовых сервисов, призванных вывести финансовые операции с криптовалютами и фиатными средствами на новый уровень за счёт дешевизны и быстроты исполнения\.
 
