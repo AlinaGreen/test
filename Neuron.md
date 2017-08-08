@@ -354,63 +354,63 @@ Compliance with law is a necessary pre-condition for the existence of a stable, 
 * * payment transaction via a payment card or similar device,
 * * credit transfers, including standing instructions\.
 
-6. Осуществление платежных операций, при которых средства покрываются кредитной линией, предоставленной пользователю платежных услуг:
-* * осуществления прямого дебетования, включая разовые дебетования,
-* * осуществление платежной операции с использованием платежной карты или аналогичного средства,
-* * осуществление кредитных трансфертов, включая постоянные поручения\.
+6. Payment transactions with the funds covered by a credit line provided to the payment services user:
+* * direct debits, including one-time debiting,
+* * payment transaction via a payment card or similar device,
+* * credit transfers, including standing instructions\.
 
-7. Эмиссия и/или приобретение платежных инструментов\.
-8. Эмиссия предоплаченных карт\.
-9. Выпуск электронных средств платежа\.
-10. Перевод денежных средств — осуществление платежной операции, при которой согласие плательщика на проведение платежной операции дается через средства телекоммуникаций, цифровых и информационных технологий, а платёж адресован оператору систем или сетей компьютерных или телекоммуникационных технологий, выступающему исключительно в качестве посредника между пользователем платежных услуг и поставщиком товаров и услуг\.
-11. Открытие счетов физическим \(IBAN\) и юридическим лицам в рамках осуществления расчётов в соответствии с нормативным документом ЕЦБ PSD2, что позволит принимать средства для пополнения криптосчетов физического лица, открытого в единой для ПС учетной среде\. Это обеспечит возможность клиенту не совершать лишних переводов между счетами бирж и обменных пунктов, а осуществлять все операции с обоими видами валют в одном “кошельке”\.
-12. Мерчант\-аккаунт позволит Neuronplatform дебетовать, т\.е\. списывать напрямую деньги клиента по его поручению с другого банковского счёта клиента для пополнения существующего счёта на Neuronplatform\.
+7. Issue and/or acquisition of payment instruments\.
+8. Issue of prepaid cards\.
+9. Issue of electronic payment facilities\.
+10. Funds transfer - implementation of the payment transaction in which the payer's consent to conduct a payment transaction is given by means of telecommunications, digital and information technologies, while the payment is addressed to computer or telecommunications technology systems or network operator, acting solely as an intermediary between the payment service user and the supplier of goods and services
+11. Opening accounts for individuals (IBAN) or legal entities within the framework of settlements, in accordance with ECB PSD2 regulations, allowing receipt of funds for replenishing crypto accounts of individuals, opened in single accounting environment for the payment system. It will allow the customer to avoid the unnecessary transfers between accounts of exchanges and exchange points, and to carry out all the operations with both currencies in one “wallet”
+12. Merchant account will allow Neuronplatform debiting, i.e. direct debiting of the customer’s funds on its behalf from another bank account to replenish Neuronplatform account
 
-###### <a id="_qxr5zd2pun85"></a>7.6. Neuronplatform\-кошелек
+###### <a id="_qxr5zd2pun85"></a>7.6. Neuronplatform\-wallet
 
-Кошелек Neuronplatform — аналог счёта клиента в банке, предоставляющий доступ ко всем возможностям и продуктам мира криптовалют\. Кошелек Neuronplatform является мультивалютным и позволяет депонировать, хранить и использовать различные криптовалюты\. Кошелек Neuronplatform уже доступен в виде бесплатного приложения для Android, а к октябрю 2017 будет доступна версия и для IOS\. 
+Neuronplatform wallet is an analogue of the customer's account in the bank providing access to all options and products in the world of cryptocurrencies. Neuronplatform wallet is a multi-currency wallet, which allows depositing, storing and using different cryptocurrencies. Neuronplatform wallet is now available as a free app for Android, and by October 2017 IOS version will be available
 
-Действия по регистрации кошелька в системе сведены к минимуму и осуществляются путем предоставления действующего адреса электронной почты и номера телефона\. После регистрации кошелька клиенты могут депонировать средства и осуществлять операции в следующих криптовалютах: BTC, ETH, ETC, LTC, DASH, XEM, EMC, DOC, WAVES, USTD\.
+The steps for registering a wallet in the system are reduced to minimum and include provision of a valid email address and phone number. After registering a wallet, the customers can deposit funds and carry out transactions in the following cryptocurrencies: BTC, ETH, ETC, LTC, DASH, XEM, EMC, DOC, WAVES, USTD
 
-При запуске блокчейна NEURON кошельки Neuronplatform будут перенесены на блокчейн NEURON и у клиентов появится возможность хранить личные ключи самостоятельно\.
+After launching the NEURON blockchain, Neuronplatform wallets will be transferred to NEURON blockchain, and customers will be able to store private keys themselves
 
-В ноябре 2017 года Клиенты получат возможность заказать к счёту пластиковые карты NEURON, принимаемые в 36 миллионах точек продаж по всему миру \(подробнее про карты см\. раздел “[Пластиковые карты](#_9k7029qxplga)”, о тарифах на выпуск и обслуживание пластиковых карт NEURON [подробнее](#_4dlt7fl1glhf); о предлагаемых продуктах пластиковых карт NEURON [подробнее](#_89ord4q1ab4n)\)\. 
+In November 2017, customers will have an opportunity to order plastic cards for NEURON account, which will be accepted in 36 million points worldwide (for more information about the cards, see section  “Plastic cards”, for more information about tariffs for NEURON plastic cards issue and service  see; for more information about the products offered on NEURON plastic cards see). 
 
-###### <a id="_juy34q6bxqo0"></a>7.7. Денежные переводы
-
- 
-
-__Технология Платформы NEURON__
-
-- денежные переводы осуществляются посредством выноса некритичных данных за пределы блокчейна в каналы состояний NEURON Network\. Все транзакции обновляются в блокчейне и являются неизменными;
-- приём и выдача платежей в любой фиатной и криптовалюте;
-- переводы осуществляются по схеме Р2Р, что позволяет не совершать конверсионные операции;
-- под каждый перевод формируется смарт\-контракт, записываемый в “канал состояний”, до его подтверждения со стороны получателя, и только после подтверждения получателем, транзакция помещается в блокчейн, и подтверждается майнерами, что увеличивает скорость обработки транзакции и снижает стоимость перевода;
-- любой перевод обеспечен реальной фиатной или криптовалютой на стороне перевода;
-- исключен фактор физического пересечения денежной массой границы, что намного упрощает процедуру осуществления трансграничных переводов; 
-- отсутствие курсовой разницы;
-- отсутствует комиссия в виде возмещения банку за валютный перевод;
-- получение денежных средств у любого агента;
-- возможность получения перевода на телефон или почту;
-- существенная экономия на тарифах\.
-
-Ниже приведена схема осуществления денежного перевода со счета Отправителя в адрес Получателя, у которого либо нет счёта в банке, либо по каким\-то причинам он не имеет возможности или желания посещать банк\. Указанный процесс применим для любых конфигураций денежных переводов, как то: со счёта  Отправителя на счёт Получателя; без открытия счёта Отправителем на счёт Получателя, без открытия счёта Отправителем Получателю, не имеющему счета\.
+###### <a id="_juy34q6bxqo0"></a>7.7. Money remittance
 
  
 
-__Технологическая схема процесса приведена ниже__.
+__NEURON Platform technology__
+
+- money transfers are carried out by moving the non-critical data outside the blockchain to the NEURON Network state channels. All transactions are renewed in the blockchain and cannot be altered
+- the acceptance and issue of payments in any fiat currency and cryptocurrency;
+- remittance is provided by P2P scheme avoiding conversion operations;
+- a smart-contract is produced for every transfer, which is recorded in the “state channel”, prior to its confirmation by the recipient, and only after confirmation by the recipient, the transaction is deployed to the blockchain, and confirmed by miners. It increases the speed of transaction processing and reduces the cost of transfer
+- any transfer is secured by real fiat currency or cryptocurrency by the transferring party;
+- the stock of money cannot physically cross the border, which simplifies to a great extent the cross-border transfer procedure; 
+- no exchange rate differences;
+- no commission fee in the form of compensation to the bank for the currency transfer;
+- receiving money from any agent;
+- the option of receiving money transfer to one’s phone or via postal mail;
+- substantial savings on tariffs\.
+
+What follows below is a chart showing how funds are remitted from a Sender’s account to a Recipient’s address, who either has no bank account, or for some reason is not willing or able to visit the bank. This process is applicable to any remittance configurations, such as from a Sender’s account to a Recipient’s account; without opening an account by the Sender to an account of the Recipient, without opening an account by the Sender to a Recipient who has no account.
+
+ 
+
+__The process flow chart is given below__.
 
  ![](/1/images/5.png)
 
-###### <a id="_redf5udk86v9"></a>7.8. Агентская сеть 
+###### <a id="_redf5udk86v9"></a>7.8. Agent network 
 
-За счёт реализации на платформе  NEURON финансовой учетной среды, позволяющей включать неограниченное число пользователей и возможности установки Thin client, создается благоприятная среда для подключения к NEURON Network Агентов, которые служат “агентами передачи ликвидности”\. Другими словами, с помощью своей особой архитектуры сети, NEURON может предоставить двум миллиардам людей, не охваченных банковскими услугами, возможность пользоваться “банковскими услугами без банков”\. Возможность подключения Агентов через thin client к сети NEURON не требует организации пунктов приёма и выдачи денежных средств самой платформой\. В среде блокчейн Агент может получить подтверждение о наличии транзакции по переводу и осуществить выдачу денежных средств по переводу из своей кассы, получив от NEURON компенсацию в сумме выданных средств получателю перевода и вознаграждение за оказанную клиенту услугу\. Встроенное геолокационное приложение самостоятельно укажет Клиентам ближайших Агентов, осуществляющих выдачу и приём денежных средств\. 
+Due to there being a financial environment providing for an unlimited number of NEURON users to be added to the platform and the possibility to run Thin client, favorable conditions are thus created to connect Agents to the NEURON Network who act as ‘liquidity transfer agents’. In other words, by virtue of its specific network architecture, NEURON can provide two billion people deprived of banking services with an opportunity to use “banking services without banks”. The option to connect Agents through Thin client to the NEURON network requires no cash deposit or pickup points to be arranged within the platform. In blockchain environment, the Agent may get confirmation of the remittance transaction and pay out cash upon remittance at its cash office, having received from NEURON compensation in the amount of funds paid out to the recipient of the transfer and a customer service fee. The embedded location-based application will automatically guide the customer to the nearest Agent for cash collection or deposit.
 
-Выплаты осуществляются в валюте страны получения перевода за счёт средств Агента и возмещается Агенту за счет средств фонда Liquidity Support Fund\.
+The payments are made in the currency of the receiving country at the expense of the Agent and are reimbursed to the Agent from Liquidity Support Fund.
 
 ![](/1/images/6.png)
 
-###### <a id="_gd4c1gcpelc"></a>7.9. Платежи за товары на смарт контракте
+###### <a id="_gd4c1gcpelc"></a>7.9. Payments for goods via a smart contract
 
  
 
