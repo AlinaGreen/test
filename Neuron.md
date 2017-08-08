@@ -197,44 +197,44 @@ Such an indicator based on the frequency and amount of outbound transactions, wi
 
 ##### <a id="_hdz4oqm5scxk"></a>5.3. Description of NEURON consensus mechanism
 
-DPoI в NEURON является наследником DPoS. Важно было найти решение, позволяющее минимизировать недостатки, унаследованные от PoW, сохранив при этом безопасность механизма консенсуса. Следовательно, майнинг будет производиться на популярных, не специализированных вычислительных устройствах, а значит, возможность майнинга будет  доступна всем, что сильно снизит потенциал централизации сети. К тому же механизм голосования учитывает не только количество монет на счете акционера, но и его активность.
+DPoI in NEURON is the successor of DPoS. It was important to find a solution to minimize the drawbacks inherited from PoW, while preserving the security mechanism for consensus. Therefore, mining will be made available in popular, not specialized, computing devices, and hence the possibility of mining will be accessible to everyone, thereby substantially reducing the network’s centralizing potential. Besides, the voting mechanism takes into account not only the number of coins on the account of a shareholder, but also his/her activity.
 
-##### <a id="_pbekvfn7g8vr"></a>6. *Финансовая платформа  NEURON*
+##### <a id="_pbekvfn7g8vr"></a>6. *NEURON Financial Platform*
 
-###### <a id="_g8vd4tqch86z"></a>6.1. Блокчейн NEURON
+###### <a id="_g8vd4tqch86z"></a>6.1. NEURON blockchain
 
-- блокчейн с механизмом консенсуса DPoI
-- быстрые и дешёвые смарт\-контракты
-- возможность записи изменений состояний из других блокчейнов
+- Blockchain with DPoI consensus mechanism
+- Fast and cheap smart contracts
+- Possibility of recording the state changes from other blockchains
 
-###### <a id="_n1icww8e3js"></a>6.2. Децентрализованный процессинг
+###### <a id="_n1icww8e3js"></a>6.2. Decentralized processing
 
-- открытое API, позволяющее свободно интегрироваться любой сторонней системе;
-- децентрализованная учетная среда участников нейронной сети NEURON Network;
-- молниеносность и дешевизна операций за счет использования нейронных каналов состояний;
+- Open API, providing for free integration with any third party system;
+- Decentralized accounting environment for the participants of NEURON Network;
+- Lightning-speed and cheapness of transactions via neural state channels;
 
-###### <a id="_g7tm0gcpn8w"></a>6.3. ICO-платформа
+###### <a id="_g7tm0gcpn8w"></a>6.3. ICO-platform
 
-- краудинвестинг на основе платформы;
-- держатели токенов NEURON голосуют за проекты, кажущиеся им наиболее перспективными;
-- арбитрами выступают другие держатели токенов NEURON, таким образом, принятие решение о допуске проекта к участию в ICO выведено на уровень коллегиального решения путем голосования;
+- Platform-based crowd investing;
+- NEURON tokens holders vote for projects they see as the most promising;
+- The arbitrators are other NEURON token holders, thus, the draft decision on the admission to participation in an ICO is taken by a collective vote
+###### <a id="_imacpiwkwizh"></a>6.4. Р2Р-exchange
 
-###### <a id="_imacpiwkwizh"></a>6.4. Р2Р-биржа
+- Cryptocurrency purchase and exchange at Neuronplatform;
+- Cryptocurrency purchase without intermediaries;
+- Neuronplatform is a guarantor of the deal;
+- Transferring fiat money with which one buys cryptocurrency - from a plastic card or from an account to a card or a contractor’s acount;
+- Best cryptocurrency purchase rate\.
 
-- покупка криптовалюты и ее обмен на Neuronplatform;
-- покупка криптовалют без посредников;
-- Neuronplatform выступает гарантом сделки;
-- перечисление фиатных денег за приобретаемую криптовалюту с пластиковой карты или счета на карту или счет контрагента;
-- оптимальный курс покупки криптовалют\.
+###### <a id="_rgtzoe5nh657"></a>6.5. Payment transactions
 
-###### <a id="_rgtzoe5nh657"></a>6.5. Платежные операции
+- Instant P2P transactions, including low cost cross-border remittance provided by high network performance throughput;
+- No conversion for remittance;
+- Using the official regulator’s rate while performing the transaction;
+- Payment for goods and services via smart contract based on blockchain\.
 
-- мгновенные Р2Р\-переводы, в том числе трансграничные переводы по низкой стоимости за счёт высокой пропускной способности сети;
-- отсутствие конвертации при осуществлении денежных переводов;
-- установка курсов по официальному курсу регулятора на момент совершения сделки;
-- оплата товаров и услуг посредством смарт\-контракта на основе блокчейна\.
 
-###### <a id="_u9ugu4q0jun4"></a>6.6 Пластиковые карты NEURON
+###### <a id="_u9ugu4q0jun4"></a>6.6 NEURON plastic cards
 
 - собственные пластиковые карты NEURON;
 - использование карт NEURON в любой из 36 млн точек приема в 200 странах мира;
