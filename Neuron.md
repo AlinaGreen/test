@@ -236,41 +236,41 @@ DPoI in NEURON is the successor of DPoS. It was important to find a solution to 
 
 ###### <a id="_u9ugu4q0jun4"></a>6.6 NEURON plastic cards
 
-- собственные пластиковые карты NEURON;
-- использование карт NEURON в любой из 36 млн точек приема в 200 странах мира;
-- использование карт в банкоматах по всему миру для снятия фиатных средств\.
+- Personal NEURON plastic cards;
+- Using NEURON cards at any of the 36 million locations in 200 countries around the world;
+- Using cards in ATMs worldwide to withdraw fiat money\.
 
-##### <a id="_5du5tpb522hn"></a>7. Техническое описание платформы NEURON
+##### <a id="_5du5tpb522hn"></a>7. Technical description of NEURON Platform
 
-###### <a id="_yuwfd9ajr7z5"></a>7.1 Описание кроссчейна
+###### <a id="_yuwfd9ajr7z5"></a>7.1 Crosschain description
 
-Блокчейн NEURON — это новый блокчейн, базирующийся на гибридной технологии delegated proof of importance, который посредством возможности интеграции с другими блокчейнами реализует возможности любых экосистем, расширяя прикладное пространство для всех блокчейнов\.
+NEURON blockchain is a new blockchain based on a hybrid delegated proof of importance technology, which implements the options of all ecosystems via integration with other blockchains, expanding the application space for all blockchains.
 
-Блокчейн NEURON обеспечивает возможность записи изменений кошельков из других блокчейнов\.
+NEURON blockchain provides for recording wallet changes from other blockchains.
 
-Чтобы снизить стоимость транзакций смарт\-контрактов, в NEURON используется технологическое решение с каналами состояний NEURON Network, когда вычислением контрактов занимаются только заинтересованные стороны, подписывая каждое изменение в случае согласия\. Только денежные транзакции и конфликтные ситуации \(для последующего их разрешения сетью\) будут попадать в блокчейн\.
+In order to reduce the transaction costs of smart contracts, NEURON makes use of technological solution with NEURON Network state channels, when only stakeholders are involved in contract evaluation, signing each change in case of consent. Only cash transactions and conflict situations (for their subsequent settlement by the network) will make their way into the blockchain.
 
-Подробнее смарт\-контракты с каналом состояний работают следующим образом:
+In more detail, a smart contracts operates the state channels as follows:
 
-Стороны, вступающие во взаимодействие в рамках контракта, создают совместный канал состояний\. По необходимости на его счёт вносят средства и обмениваются подписанными состояниями контракта для сверки\.
+The parties interacting within the framework of the contract create a joint state channel. If necessary, they deposit funds to this account and exchange signed contract states for verification
 
-Для простоты и надёжности состояние контракта отделяется и хранится отдельно, сам же контракт реализуется в виде чистой функции, возвращающей следующее состояние на основе предыдущего\.
+For the sake of simplicity and reliability, the contract state is detached and stored separately while the contract itself is implemented as a pure function that returns each subsequent state on the basis of the previous one
 
-Каждый шаг контракта выполняется аналогично — стороны вычисляют следующее состояние, подписывают и обмениваются данными\.
+Each step of the contract is made in a similar way: the parties calculate the next state, sign and exchange the data.
 
-Таким образом, обеспечивается высокая скорость работы и низкая комиссия смарт\-контрактов\.
+Thus, high performance speed and low smart contract commission fees are ensured.
 
-В случае, когда все стороны добросовестно следуют контракту, состояния будут совпадать\. Если же какая\-то сторона не согласна с результатами, полученными от другой стороны, то решение конфликта возлагается на кроссчейн: недовольная сторона записывает последнее согласованное состояние контракта и его код в кроссчейн и сеть разрешает конфликт, выполняя контракт\. Такое выполнение контракта будет облагаться пеней — штрафной комиссией, но комиссию будет справедливо списать с той стороны, которая нарушила контракт\. Это будет стимулировать стороны вести себя честно даже в том случае, когда дальнейшее соблюдение контракта им невыгодно\.
+Where all the parties observe the contract in good faith, the states will match. If any of the parties disagrees with the results obtained from the other party, the conflict is resolved by the crosschain: the affected party records the last agreed state of the contract and its code in the crosschain and the network resolves the conflict fulfilling the contract. A contract fulfilled in such a manner will be subject to a penalty fee, but the latter will be justifiably deducted from the party’s balance that has violated the contract. This will encourage the parties to behave honestly even when further observance of the contract is no longer profitable.
 
-На сегодняшний день существующие решения на основе технологии блокчейн уже плохо масштабируемы, поскольку с количеством пользователей растет и количество транзакций\. Неэффективный предел размера блока, механизм консенсуса PoW уже не отвечают требованиям современного рынка\. Более того, скорость с которой майнеры обрабатывают блоки, зависит от суммы комиссионных, и если раньше сумма перевода составляла сотые доли цента, то на сегодняшний день, если вы хотите быстрой транзакции, вам нужно заплатить несколько центов или даже долларов\. Ни один блокчейн на сегодняшний день не способен “потянуть” объемы транзакций, которые осуществляет VISA или MasterCard\. 
+Today’s solutions based on blockchain technology are already poorly scalable, since the number of transactions grows with the number of users. The inefficient blockchain size limit and the PoW consensus mechanism are no longer able to satisfy modern market requirements. Moreover, the speed of blocks being processed by miners depends on the amount of fees, and while the cost of a transaction used to be hundredths of a cent before, today, if you need a fast transaction, you will have to pay a few cents or even dollars. No blockchain is currently able to sustain the amounts of transactions carried out by VISA or MasterCard.
 
-В NEURON Network мы вынесли некритичные данные из блокчейна в каналы состояний\. Все сделки в канале обрабатываются быстро и очень дёшево\. И после одобрения участниками сети обновленный баланс возвращается снова в блокчейн, работающий на гибридной технологии DPoI, позволяющей обеспечить безопасность и неизменность одновременно с большей пропускной способностью сети и компромиссными размерами блока\. Importance в DPoI считается на основе количества транзакций в сети, таким образом сеть стремится к децентрализации, в отличии от PoW и классического DPoS\.
+In NEURON Network the noncritical data were removed off the blockchain to the state channels. All transactions in the channel are processed quickly and very cheaply. And after the network participants approve of the renewed balance, it returns to the blockchain, running on hybrid technology, enabling safety and inalterability simultaneously with higher performance throughput and compromise block size. Importance in DPoI is calculated on the basis of the number of online transactions, thus the network gets more decentralized, contrary to PoW and classical DPoS.
 
-Все вышеописанные свойства нового блокчейна NEURON позволят с успехом использовать его  в финансовой среде,  благодаря высокой пропускной способности и низкой комиссии\.
+All the above properties of a new NEURON blockchain will allow successfully using it in the financial environment, due to the high performance throughput and low commission fee
 
-Именно поэтому команда NEURON уделила внимание не только созданию самого блокчейна, но и его практическому применению в финансовом мире\. Конечно, предложенные и воплощенные командой NEURON варианты — это только часть возможностей нового поколения блокчейна\. На блокчейне NEURON могут найти свое применение страховые продукты, сервисы кредитования и займов, сервисы мгновенного обмена данными и многое другое\. 
+That is why NEURON team paid attention not only to the creation of the blockchain itself, but also to its practical application in the financial world. Of course, the options proposed and implemented by NEURON team are only a small part of the new blockchain capability. The NEURON blockchain can be used for insurance products, credit and loan services, instant data exchange services and many other applications. 
 
-###### <a id="_w88vz529iko4"></a>7.2. Децентрализованный процессинг — революция в финансовом мире\.
+###### <a id="_w88vz529iko4"></a>7.2. Decentralized processing — a revolution in the financial world\.
 
 Децентрализованный процессинг NEURON — технология, призванная совершить революцию в системе обработки транзакций\. Первая попытка всерьез составить конкуренцию признанным авторитетам финансового мира, которая стала возможной, благодаря особым функциям блокчейна NEURON\.
 
