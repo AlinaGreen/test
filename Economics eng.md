@@ -51,7 +51,7 @@ It should be noted that calculations in the proposed business plan are based on 
 
 1.2.3. Customer growth will proceed as planned: Table 4;
 
-1.2.4. Maximum expenses cumulatively are - Table 9 \- 
+1.2.4. Maximum expenses cumulatively are -Table 9\- 
 
 |   | __\-$23 576__ |
 |---|---|
@@ -62,6 +62,7 @@ It should be noted that calculations in the proposed business plan are based on 
 __Table 9__;
 
 1.2.5. First revenue is expected in July 2018, __Table 7__
+
 1.2.6. Monthly revenue grows from  
 
 | $0,00 | $361 646,27 |
