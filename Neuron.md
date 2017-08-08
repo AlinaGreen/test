@@ -90,42 +90,44 @@ The blockchain-based NEURON platform using the DPOI + TaPOS hybrid consensus mec
 The NEURON technology serves the basis for developing the first Decentralized Processing Medium - an open-source financial environment that allows an unlimited number of users to be included in the NEURON network thus opening up boundless vistas blockchain development. NEURON plastic contactless payment cards and NFC cards, NEURON-integrated Android and iOS mobile apps are concrete possibilities made available to its users through decentralized processing, combined with crowdfunding, an ICO platform, an exchange token contract, P2P lending, money remittance, payments for goods and services via blockchain are all part of the NEURON financial ecosystem.
 
 The NEURON Platform currently features the following functionality:
-- ICO\-платформа;
-- Р2Р\-биржа;
-- Мобильное приложение на Android \(на завершающей стадии дизайна\)\.
 
-На финальной стадии разработки находятся:
+- ICO\-platform;
+- Р2Р\-exchange;
+- Android mobile application \(final design stage\)\.
 
-- Денежные переводы;
-- Оплата за товары и услуги;
-- Токенный биржевой контракт\.
+Development of the following features is being finalized:
 
-В стадии запуска продукта \(планируемая дата завершения — октябрь 2017\):
+- Money remittance;
+- Payment for goods and services;
+- Exchange token contract\.
 
-- Пластиковые карты с возможностью бесконтактной оплаты и технологией NFC;
+The following is at a pre-launch phase \(scheduled completion date - October 2017\):
 
-На стадии разработки:
+- plastic contactless payment cards and NFC cards;
 
-- Блокчейн
-- Децентрализованный процессинг
+Currently being developed are:
 
-#### <a id="_mtxa7cg30vxv"></a>3. Миссия
+- Blockchain
+- Decentralized processing
 
-Создание нового вида инфраструктуры для финансового рынка, что позволит стереть границы между миром фиатных денег и криптовалютой, а также вывести использование и применение криптовалюты на новый уровень\.
+#### <a id="_mtxa7cg30vxv"></a>3. Mission
 
-#### <a id="_h39n00fn93pb"></a>4. Философия проекта NEURON
+Creation of an entirely new infrastructure for the financial services market, which will virtually erase boundaries between cryptocurrencies and fiat money and take cryptocurrencies to a new height in terms of their scope of application.
 
-NEURON — технически сложный проект с амбициозными задачами\. На сегодняшний день существует несколько проектов, по разработке собственных платформ, которые пытаются решить те же задачи, которые мы ставим перед собой в реализации проекта NEURON\. Нашими преимуществами, по  сравнению с другими аналогичными проектами,  являются собственный блокчейн с каналами состояний NEURON Network, собственный модернизированный гибридный механизм консенсуса DPoI \+ TaPOS, что позволяет говорить о возможности неограниченного масштабирования и осуществлении миллионов транзакций в единицу времени за минимальную оплату, а также, о возможности майнинга криптовалюты с использованием различных типов устройств, не требующих использования больших мощностей и разработанный командой NEURON токенный биржевой контракт позволяющий приобретать и реализовывать токены напрямую через встроенный биржевой смарт контракт самого токена, не привязываясь к биржам, что позволяет  участникам рынка ICO выйти на новый уровень свободы использования своих активов\. 
+#### <a id="_h39n00fn93pb"></a>4. NEURON Project philosophy
 
-Реализацию поставленной миссии мы видим в достижении следующих целей:
+NEURON is a technically complex project setting ambitious challenges. Today there are several similar projects designed to develop customized platforms that address the same scope of tasks that we have challenged ourselves to achieve by implementing NEURON. We boast a number of competitive advantages, compared to the rival projects, which include: an own blockchain with NEURON Network state channels, the updated DPoI + TaPOS hybrid consensus mechanism, the features enabling unlimited scalability and allowing for millions of transactions to be conducted in a given moment at a very low cost; cryptocurrency mining capabilities available even to low-capacity devices of different types as well as the exchange token contract, developed by the NEURON team,  which enables trading tokens directly on a smart contract-based exchange, outside of exchanges - all this provides the market participants an entirely new level of being free in using their assets.
 
-**Предоставление возможности каждому стать инвестором\.** В эпоху, когда у предпринимателя затруднён доступ к традиционным источникам капитала, таким как банковское кредитование и инвестиции фондов, краудинвестинг предоставляет возможность сбора необходимой суммы для развития продукта или услуг\. Используя платформу NEURON, каждый может поддержать проект, который кажется ему коммерчески эффективным\. Краеугольным камнем инвестирования является безопасность и удобство использования\. В этом отношении NEURON будет превосходить существующие аналоги, токенный биржевой контракт будет являться простым и удобным механизмом реализации или приобретения активов инвесторами\.
+Fulfilling our mission will require the following goals to be attained:
 
-**Упрощение и удешевление механизма обработки платежей между участниками эквайринга\.** Мы верим, что возможности, которые предоставляет децентрализованный процессинг в значительной степени повлияют на привычный процесс совершения банковских операций, прежде всего, за счет снижения зависимости от платёжных систем и банков\. Ключевыми преимуществами децентрализацованного процессинга являются решение проблемы высокой пропускной способности сети и удешевление финансовых операций\. В соответствии с  бизнес моделью, которая была опубликована в плане ICO, на разработку данной технологии, а также блокчейна NEURON будет направлено 53,77% всех средств собранных в ходе ICO\.
+**Provide opportunities where anyone can become an investor\.** While we live in a time when an entrepreneur may find it difficult to access traditional sources of funding, like a bank loan or venture capital, crowdinvesting affords possibilities to raise whatever sum is needed to develop a product or a service. By using the NEURON Platform, absolutely anyone can support a project that he or she finds commercially feasible. Crucial to any investment process are the two factors: security and convenience. In this respect, NEURON is surely a big step ahead of its competitors: an exchange token contract is a simple and convenient tool designed for investors to purchase and sell assets
+\.
 
-**Создание новой безопасной  и удобной среды взаимодействия агентов экономики —  финансовых организаций, платежных систем, банков, домохозяйств**. Прозрачный и доступный сервис банковских операций, финансовый мир, свободный от бюрократии, мошенничества и обмана, построенный на системе управления с концепцией двухуровневого голосования, сопровождаемой гибкими и безопасными смарт\-контрактами\. В сегодняшнем мире платёжные системы и банки разрабатывают собственные продукты для удешевления таких сервисов, как платежи за товары и услуги, денежные переводы, валютообменные операции\. NEURON предлагает готовое решение для любых пожеланий, как для  платёжных и банковских организаций, так и для домохозяйств — финансы как сервис — FaaS\.
+**Simplify procedures and cut costs for payment transactions between acquiring parties\.** We have reason to believe that the broad capabilities offered by decentralized processing  are likely to influence regular banking procedures to a great extent by, first and foremost, making parties to a transaction less dependent on banks and payment systems. The decentralized processing technology offers invaluable advantages instrumental in solving the problems of achieving the network’s high throughput and minimizing the costs of financial transactions. In accordance with the business model contained in the ICO plan, the development of both this technology and the NEURON blockchain will account for 53.77% of all funds raised during the ICO\.
 
-##### <a id="_g492puctlfn4"></a>5. *Анализ блокчейн-среды*
+**Create a new, safe and convenient environment in which the entire variety of economic agents - financial entities, payments system, banks and households - could interact**. We are talking a transparent and affordable banking service in a financial world, free of bureaucracy, fraud and deceit, which operates a two-level voting system supported by flexible and fail-free smart contracts. In today’s world, payment systems and banks work hard to develop solutions that would help make cheaper such services as payment for goods and services, money remittance and currency exchange transactions. NEURON is ready to offer solutions that have been specially tailored to the unique needs of payment entities or banks, and even households - Finances as a Service (FaaS)\.
+
+##### <a id="_g492puctlfn4"></a>5. *Blockchain environment analysis*
 
 ###### <a id="_cp4erl2qsnqj"></a>5.1. *Существующие механизмы консенсуса*
 
