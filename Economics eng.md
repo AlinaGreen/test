@@ -161,7 +161,8 @@ Revenue per customer has been calculated on the basis of data on revenue account
 
 #### <a id="_fn3o1w8ri19d"></a>3. Branch development table
 
-Развитие регионов присутствия будет идти в соответствии с планом лицензирования и обусловлено необходимостью наличия собственных корсчетов в этих странах для интеграции фиатных счетов с криптосчетами клиентов\.  Это даст возможность обслуживать счета внутри разрабатываемой платежной системы\. Результатом будет являться удешевление платежных операций\. Наличие офисов в регионах присутствия будет необходимым параметрам и отнесено нами на дальнейшие этапы развития с возможностью финансирования за счет прибыли компании\.
+Expansion into new regions will continue in accordance with the licensing plan and will be driven by the need to open own correspondent accounts in the countries of presence thus enabling integration of fiat accounts with customer crypto accounts and service of those accounts within the payment system being developed. As a result, payment transactions will grow cheaper.
+\.
 
 ![](images/1.png)
 
