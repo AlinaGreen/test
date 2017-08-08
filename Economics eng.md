@@ -25,33 +25,33 @@ __NEURON Economics__
 
 NEURON’s economic model is presented below\.
 
-Необходимо отметить, что предложенный бизнес план был рассчитан на основе фактических данных конкретного банка с региональной сетью из 14 единиц за период 10 месяцев\. Агрегированный бизнес план по годам представлен в Таблице 1
+It should be noted that calculations in the proposed business plan are based on 10-month factual data reported by a particular bank with a 14-branch regional network\. The business plan’s full text is available at
 
-#### <a id="_k8yr2wfdg9b"></a>1.1. Ключевые допущения:
+#### <a id="_k8yr2wfdg9b"></a>1.1. Key assumptions:
 
-1.1.1. Бизнес план, включая комиссионный доход, рассчитан по пессимистическому сценарию;
+1.1.1. The business plan, including commission fees, is based on a worst-case scenario;
 
-1.1.2. Динамика развития  происходит планомерно, без резких скачков, но активно;
+1.1.2. Growth ratios are balanced and smooth, but robust;
 
-1.1.3. Появление первых клиентов  \- четвертый квартал 2017 года;
+1.1.3. First clients are expected in Q1 2018;
 
-1.1.4. Компания способна показывать прирост количества клиентов в месяц в размере 15%;
+1.1.4. The company is capable of reporting a monthly customer growth rate of 15% (including newly opened branches);
 
-1.1.5. Размер среднего чека \- $148,28;
+1.1.5. An average bill - $148.28;
 
-1.1.6. Первоначальное количество клиентов \- 2439 транзакций/месяц;
+1.1.6. The initial number of clients – 2,439 transactions/month;
 
 
-#### <a id="_e1drhc9ly629"></a>1.2. Ключевые точки бизнес плана:
+#### <a id="_e1drhc9ly629"></a>1.2. Business plan milestones:
  
 
-1.2.1. Открытие офисов присутствия будет происходить в соответствии с планом: Таблица 1;
+1.2.1. Branches will be opened as planned: Table 1;
 
-1.2.2. Территориальное лицензирование будет происходить в соответствии с графиком: Таблица 2;
+1.2.2. Territorial licensing will be done as scheduled: Table 2;
 
-1.2.3. Прирост клиентов будет происходить по плану: Таблица 4;
+1.2.3. Customer growth will proceed as planned: Table 4;
 
-1.2.4. Максимальная сумма расходов, накопительным итогом составляет \- 
+1.2.4. Maximum expenses cumulatively are - Table 9 \- 
 
 |   | __\-$23 576__ |
 |---|---|
