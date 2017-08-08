@@ -413,51 +413,52 @@ The payments are made in the currency of the receiving country at the expense of
 ###### <a id="_gd4c1gcpelc"></a>7.9. Payments for goods via a smart contract
 
  
+NEURON offers a cutting-edge low-cost and high-performance smart contract model to handle regular daily payments
 
-NEURON предлагает передовую модель работы смарт\-контрактов с низкой стоимостью и высокой производительностью при платежах за повседневные нужды\.  
+__Buyer__
 
-__Покупатель__
+- opens a wallet on Neuronplatform;
+- buys NEURON at Neuronplatform;
+- confirms a transaction on purchase of goods and confirms readiness to pay its cost;
+- provides the necessary amount of NEURON for their locking with Neuronplatform smart contract before the shipment of goods;
+- picks up the goods;
+- confirms the receipt of goods to Neuronplatform;
+- smart contract withdraws funds from the Buyer's wallet and credits them to the wallet of the Seller;
+- The warranty terms for the return of goods are stipulated in the smart contract.
 
-- открывает кошелёк на Neuronplatform;
-- покупает NEURON на Neuronplatform;
-- подтверждает факт заключения сделки по покупке товара и подтверждает готовность оплатить его  стоимость;
-- обеспечивает необходимое количество NEURON для блокировки их смарт\-контрактом Neuronplatform до отгрузки товара;
-- забирает товар;
-- подтверждает Neuronplatform получение товара;
-- смарт\-контракт списывает средства с кошелька Покупателя и зачисляет их на кошелек Продавца;
-- условие гарантии возврата товара прописано в Смарт\-контракте\.
 
-__Продавец__
+__Seller__
 
-- открывает кошелёк на Neuronplatform;
-- выставляет счёт Покупателю;
-- как только Покупатель подтвердит готовность оплатить счет, получает подтверждение того, что необходимое количество NEURON зарезервировано;
-- отгружает товар;
-- получает на свой кошелёк списанные смарт\-контрактом с кошелька Покупателя средства, как только Покупатель подтвердит получение товара\.
+- opens a wallet on Neuronplatform;
+- bills an invoice to the Buyer;
+- once the Buyer confirms the willingness to pay the invoice, he/she receives a confirmation that the necessary amount of NEURON is reserved;
+- ships the goods;
+- receives the funds withdrawn by the smart contract from the wallet of the Buyer, as soon as the buyer confirms the receipt of goods\.
 
-__Технологическая схема процесса приведена ниже__:
+__The process flow chart is given below__:
 
  
 
 ![](/1/images/7.png)
 
-###### <a id="_9k7029qxplga"></a>7.10. Пластиковые карты
+###### <a id="_9k7029qxplga"></a>7.10. Plastic cards
 
-Наличие лицензии EMI позволяет организации выпускать как собственные  виртуальные и физические пластиковые карты, так и эмитировать электронные денежные средства\. Преимущества, отличающие пластиковые карты NEURON:
+EMI license allows an organization to issue its own virtual and physical cards, and to issue electronic money. The advantages that distinguish NEURON plastic cards are:
 
-- собственная карта NEURON с возможностью использования в любой из 36 млн точек приема в 200 странах мира;
-- поддержка криптовалют;
-- поддержка фиатных денег;
-- системы buy\-pass и master\-pay;
-- система NFC с возможностью использования Apple Pay и Android Pay;
-- самые конкурентные тарифы;
-- программы cash back — вознаграждения клиентов за траты по картам NEURON до 0,5% на счёт от стоимости покупок\.
+- an own NEURON card valid in 36 million locations in 200 countries around the world;
+- cryptocurrencies support;
+- fiat money support;
+- buy-pass and master-pay systems;
+- NFC system with optional Apple Pay and Android Pay;
+- the most competitive tariffs;
+- cash back program, a reward for spending on NEURON cards up to 0.5% of the purchase value
+\.
 
-До запуска блокчейна NEURON вознаграждение по программе cash back ежемесячно будет начисляться в виде токенов NEURON и зачисляться на кошелёк клиента NEURON Wallet, за счет сформированного фонда Customer’s Support Fund\.
+Prior to the launch of NEURON blockchain, compensation under the cash back program will accrue on a monthly basis in the form of NEURON tokens and will be credited to the customer's NEURON Wallet via the Customer's Support Fund
 
-После запуска блокчейна NEURON вознаграждение по программе cash back будет выплачиваться в валюте NRN путём зачисления суммы вознаграждения на кошелёк клиента NRN, увеличивая тем самым его остаток в валюте NEURON\. 
+After the launch of NEURON blockchain, compensation under the cash back program will be paid in NRN currency by crediting the amount of remuneration to the wallet of NRN customer, thereby increasing its balance in NEURON currency
 
-###### <a id="_4dlt7fl1glhf"></a>__7.10.1. Сравнительная таблица тарифов по картам__ 
+###### <a id="_4dlt7fl1glhf"></a>__7.10.1. Card fees comparison table __ 
 
 ![](/1/images/8.png)
 
