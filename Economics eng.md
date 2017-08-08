@@ -77,7 +77,9 @@ __Table 9__;
   in 2022, __Table 7__;
 
 1.2.7. Breakeven point is expected in Q3 2019 (in 2.5 years), __Table 8__;
+
 1.2.8.  Profit is expected in Q4 2021, __Table 10__;
+
 1.2.9. Profit means that the company has covered all its expenses totaling 
 
 |   | __\-$23 576__ |
@@ -127,13 +129,13 @@ __Table 9__;
 
 #### <a id="_922kqstcu473"></a>Business model description
 
-Бизнес модель NEURON основана на взимании комиссий за предоставление возможности клиентам платформы Neuronplatform приобретать, пополнять и объединять остатки средств на крипто и фиатных счетах и свободно оперировать объединенными средствами при осуществлении переводов и/или расчетов за товары и услуги\. Возможность покупки и пополнения криптосчетов будет доступна уже при запуске платформы, а с помощью будущей собственной платежной системы NEURON клиенты получат возможность пополнять свои криптокошельки путем перевода фиатных денег на счет платежной системы NEURON и одновременно, аналогичную возможность по переводу средств со своего криптокошелька на свой фиатный счет\. 
+The NEURON business model is based on charging a commission fee for giving Neuronplatform customers the possibility to acquire, top up and combine balances on their crypto- and fiat accounts and to use freely those combined funds when making transfers and/or settlements for goods and services. The possibility to acquire and top up crypto accounts is made available as early as the platform’s kick-off phase, while NEURON’s own payment system will, in the future, enable customers to top up their crypto wallets by transferring fiat money to the NEURON payment system and similarly to transfer funds from their crypto wallet to their fiat account at the same time\. 
 
-Плата за выпуск, обслуживание, комиссии за снятие денежных средств в банкоматах и терминалах выдач по всему миру с использованием пластиковые карт NEURON обеспечат платформе Neuronplatform еще один источник доходов\. 
+The possibility to acquire and top up crypto accounts is made available as early as the platform’s kick-off phase, while NEURON’s own payment system will, in the future, enable customers to top up their crypto wallets by transferring fiat money to the NEURON payment system and similarly to transfer funds from their crypto wallet to their fiat account at the same time\. 
 
-После получения лицензии EMI и открытия представительств собственной платежной системы в различных регионах мира NEURON обеспечит наличие корсчетов в национальных валютах региона присутствия представительства, что позволит клиентам пополнять фиатные счета, а также осуществлять конвертацию криптовалюта\-фиат\-криптовалюта  без курсовых разниц для каждого региона присутствия\. 
+Once the EMI license is received and branches of its own payment system are up and running around the world, NEURON will make available correspondent accounts in the national currencies in the regions of its presence, thus enabling customers to top up fiat accounts and make cryptocurrency-fiat-cryptocurrency conversions without having to account for local exchange differences\. 
 
-Для расчета бизнес модели проекта были взяты данные по внутренним расходным операциям \(между счетами клиентов банка\), внешним платежам \(операции с клиентами других банков\), а также внешние платежи клиентов, не имеющих банковского счета\. За основу расчёта была взята выборка фактических платежей за период, соответствующий 10 месяцам\. В целях повышения прогностической точности расчётов данные были усреднены\.
+The project’s business model has used data on internal debit transactions (between the bank’s customer accounts), external payments (transactions with other banks’ customers), as well as external payments performed by customers without a bank account\. The calculation has used a selection of payments actually made within a period of 10 months\. For the sake of forecasting accuracy the data have been averaged\.
 
 __Структура доходов__
 
