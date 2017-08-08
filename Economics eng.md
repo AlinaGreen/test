@@ -51,7 +51,7 @@ It should be noted that calculations in the proposed business plan are based on 
 
 1.2.3. Customer growth will proceed as planned: Table 4;
 
-1.2.4. Maximum expenses cumulatively are -Table 9\- 
+1.2.4. Maximum expenses cumulatively are -__Table 9__ 
 
 |   | __\-$23 576__ |
 |---|---|
